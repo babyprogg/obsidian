@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "c07bd0becd85107b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa021c055927ddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e8c10b9fd3141bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Book summary/065 Гибкий ум.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "065 Гибкий ум"
+            }
+          },
+          {
+            "id": "ffc1b04d8326733c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Masturbation/0190 Being a good listener.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0190 Being a good listener"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d06d303eb9a3dac",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b7af24240bb59429",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2f1c03249d698d86",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0762f2c3e0723c0a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "6dcc13eb4843f235",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "7ebd256673867df8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d2b13434e5cddaa2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd81bcab33eb014f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Base/Masturbation/0190 Being a good listener.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "577a9c4f2e8a5e8f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "42b25f86678a6458",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "e908830f3dd5c8c2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e6d251b9141efce3",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "8e5b8b9c21d2d6ac",
+        "type": "leaf",
+        "state": {
+          "type": "Strange New Worlds",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "de74cdbb193a6fe4",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      },
+      {
+        "id": "544fffeb8d4b0346",
+        "type": "leaf",
+        "state": {
+          "type": "Strange New Worlds",
+          "state": {},
+          "icon": "file-digit",
+          "title": "Strange New Worlds"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ffc1b04d8326733c",
+  "lastOpenFiles": [
+    "Base/Masturbation/0162 Self-talk.md",
+    "Base/Masturbation/0184 5 Факторов построения фонового знания.md",
+    "Base/Masturbation/149 Самопреобразования.md",
+    "Base/Masturbation/0188 Social Contract.md",
+    "Base/Masturbation/0189 Practical tools to be Happy.md",
+    "Base/Masturbation/0187 5 principles to be a better thinker.md",
+    "Base/082Guide to talking.md",
+    "Base/Masturbation/0190 Being a good listener.md",
+    "Base/Masturbation/0186 Мета-навыки.md",
+    "Base/Masturbation/0135 Creative Problem solving.md",
+    "Base/Masturbation/148 Психологическая устойчивость.md",
+    "Base/Masturbation/0113 Dont try.md",
+    "Base/Masturbation/0109 How to Speak on the Public - Patrick Winston(MIT prof).md",
+    "Base/Masturbation/097 Dark horse mindset.md",
+    "Base/Masturbation/078 Сила воли.md",
+    "Base/Book summary/065 Гибкий ум.md",
+    "Base/Masturbation/080 Универсалы.md",
+    "Base/Masturbation/015Как генерировать идеи. Творчество.md",
+    "Base/Learning/024How to study more without getting burned.md",
+    "Base/Code_CompSci/0127 Lists in HTML.md",
+    "Base/0203 Science behind Insomnia.md",
+    "Base/хз просто быстрые заметки по реакту.md",
+    "Base/0204 Surrealism techniques.md"
+  ]
+}

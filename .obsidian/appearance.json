@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 17,
+  "cssTheme": "Obsidianite",
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Consolas,Lucida Fax",
+  "monospaceFontFamily": "Bahnschrift",
+  "textFontFamily": "Consolas",
+  "accentColor": "#444795",
+  "nativeMenus": false
+}
