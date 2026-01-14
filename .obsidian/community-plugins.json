@@ -4,5 +4,11 @@
   "obsidian-excalidraw-plugin",
   "obsidian42-strange-new-worlds",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-kanban",
+  "graph-analysis",
+  "periodic-notes",
+  "highlightr-plugin",
+  "tag-wrangler"
 ]

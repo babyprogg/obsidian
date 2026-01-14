@@ -20,38 +20,12 @@
             }
           },
           {
-            "id": "f7e0388b3ddbe319",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Bucket list.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Bucket list"
-            }
-          },
-          {
-            "id": "d4dc5b220aa8ec98",
+            "id": "6d9d54548a3bfc61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Daily/2026-01-10.md",
+                "file": "500_Areas/Daily/2026-01-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,21 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-10"
-            }
-          },
-          {
-            "id": "655a75d974341585",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "2026-01-14"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#саморазвитие",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,7 +209,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -277,13 +241,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "fe1eef41b7a52038",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "f88138862c0273f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
         "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,57 +283,59 @@
       "templates:Вставить шаблон": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8d6fbc7cc8248302",
+  "active": "d517dd7a1518a26c",
   "lastOpenFiles": [
-    "Base/Daily/2026-01-10.md",
-    "Base/Bucket list.md",
-    "Base/Learning/0214 How to draw.md",
-    "Base/Daily/2026-01-09.md",
-    "Base/Daily/2026-01-07.md",
-    "Base/Daily/2026-01-06.md",
-    "Base/Daily/2026-01-05.md",
-    "Base/Daily/2026-01-04.md",
-    "Base/Daily/2026-01-02.md",
-    "Base/Code_CompSci/0189 Principled coders.md",
-    "Base/Daily/2025-12-31.md",
-    "Base/Daily/2025-12-28.md",
-    "Base/Daily/2025-12-25.md",
-    "Base/Daily/2025-12-22.md",
-    "Base/Daily/2025-12-16.md",
-    "Base/Daily/2025-12-14.md",
-    "Base/Daily/2025-12-13.md",
-    "Base/Daily/2025-12-12.md",
-    "Base/Daily/2025-12-11.md",
-    "Base/Daily/2025-12-10.md",
-    "Base/Daily/2025-12-07.md",
-    "Base/Daily/2025-12-06.md",
-    "Base/Daily/2025-12-05.md",
-    "Base/Daily/2025-12-04.md",
-    "Base/Daily/2025-12-03.md",
-    "Base/Daily/2025-12-01.md",
-    "Фотки/Pasted image 20251116124620.png",
-    "0215 worlds shortest UI",
-    "Фотки/Pasted image 20251105232836.png",
-    "Фотки/Pasted image 20251104223412.png",
-    "Фотки/Pasted image 20251104221951.png",
-    "Фотки/Pasted image 20251102235233.png",
+    "000_System/Templates/question-note.md",
+    "000_System/Templates/project-note.md",
+    "000_System/Templates/moc-template.md",
+    "000_System/Templates/daily-note.md",
+    "000_System/Templates/atomic-note.md",
+    "000_System/Templates/book-note.md",
+    "000_System/Templates/Шаблон для книг.md",
+    "000_System/Templates/Матрица Эйзенхауера.md",
+    "000_System/Templates/Единица Контента.md",
+    "500_Areas/Daily/2026-01-14.md",
+    "000_System/Tagging System.md",
+    "Essentials/Bucket list.md",
+    "700_Archive/Legacy",
+    "Essentials/Claude_Complete Fiction Recommendations.md",
+    "700_Archive/Legacy/Base/Art/0192 Ключевые произведения искусства.md",
+    "Essentials/System Audit.md",
+    "000_System/Note Types.md",
+    "700_Archive/Legacy/Base/Audit Analysis.md",
+    "700_Archive/Legacy/Base/Essay_Talent.md",
+    "700_Archive/Legacy/Base/Daily/2026-01-14.md",
+    "000_System/Linking Guide.md",
+    "000_System/Properties Guide.md",
+    "000_System/Reviews/Monthly",
+    "000_System/Reviews/Weekly",
+    "500_Areas/Daily",
+    "600_Resources/Code",
+    "600_Resources/Media",
+    "600_Resources/Articles",
+    "600_Resources/Books",
+    "500_Areas/Relationships",
+    "500_Areas/Creative",
+    "Base/Complete Zettelkasten Upgrade Guide.md",
+    "700_Archive/Legacy/Base/Daily/2026-01-13.md",
+    "700_Archive/Legacy/Base/Daily/2026-01-12.md",
+    "Base/Addiction.md",
+    "Base/Martial arts.md",
+    "700_Archive/Legacy/Фотки/Pasted image 20251116124620.png",
+    "700_Archive/Legacy/Фотки/Pasted image 20251105232836.png",
+    "700_Archive/Legacy/Фотки/Pasted image 20251104223412.png",
+    "700_Archive/Legacy/Фотки/Pasted image 20251104221951.png",
+    "700_Archive/Legacy/Фотки/Pasted image 20251102235233.png",
     "Без названия.canvas",
-    "Base/Без названия.base",
-    "0207 JS",
-    "Фотки/Pasted image 20251006204352.png",
-    "Base/Art",
-    "Фотки/Pasted image 20230925115624.png",
-    "Фотки/Pasted image 20230925115441.png",
-    "Фотки/Pasted image 20230925114428.png",
-    "Фотки/Pasted image 20230925113808.png",
-    "Projects",
-    "Zettel 0.2/Home/IT",
-    "Zettel 0.2/Home",
-    "Zettel 0.2/Без названия",
-    "Zettel 0.2",
-    "Base/Langs"
+    "700_Archive/Legacy/Фотки/Pasted image 20251006204352.png",
+    "700_Archive/Legacy/Фотки/Pasted image 20230925115624.png",
+    "700_Archive/Legacy/Фотки/Pasted image 20230925115441.png",
+    "700_Archive/Legacy/Фотки/Pasted image 20230925114428.png",
+    "700_Archive/Legacy/Фотки/Pasted image 20230925113808.png"
   ]
 }
