@@ -13,16 +13,9 @@
         "a": 1,
         "rgb": 9756414
       }
-    },
-    {
-      "query": "path:MOCS",
-      "color": {
-        "a": 1,
-        "rgb": 16774633
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.02193347193347,
@@ -32,6 +25,6 @@
   "repelStrength": 8.91891891891892,
   "linkStrength": 0.3004158004158,
   "linkDistance": 275,
-  "scale": 0.063418411535169,
+  "scale": 0.029793174524989214,
   "close": true
 }

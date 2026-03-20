@@ -17,6 +17,18 @@
     {
       "folder": "200_Atomic",
       "template": "000_System/Templates/atomic-note.md"
+    },
+    {
+      "folder": "200_Atomic/Questions",
+      "template": "000_System/Templates/question-note.md"
+    },
+    {
+      "folder": "400_Projects",
+      "template": "000_System/Templates/project-note.md"
+    },
+    {
+      "folder": "600_Resources/Books",
+      "template": "000_System/Templates/book-note.md"
     }
   ],
   "enable_file_templates": false,

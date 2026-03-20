@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aae1a3bdc08566fb",
+        "id": "9a6637cbf88b002e",
         "type": "tabs",
         "children": [
           {
-            "id": "d69d938f509afb5c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "6d9d54548a3bfc61",
+            "id": "e2230bc8a5ffa747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500_Areas/Daily/2026-01-14.md",
+                "file": "400_Projects/Active/Maison Margiela Article site/Identity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-14"
+              "title": "Identity"
+            }
+          },
+          {
+            "id": "4553dd4dbbbe498c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ],
@@ -76,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:project/active",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,10 +96,40 @@
             }
           }
         ]
+      },
+      {
+        "id": "83dcfb403c5397e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e3ee272af9763b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500_Areas/Daily/2026-03-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-19"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "3b4bac900ad752d3",
@@ -114,9 +142,11 @@
           {
             "id": "c4a1e22565798c78",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "calendar",
               "state": {},
+              "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
@@ -132,41 +162,16 @@
             }
           },
           {
-            "id": "1520b74d180175ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Masturbation/062 modern polymath.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "062 modern polymath"
-            }
-          },
-          {
             "id": "a0495def2b239eb4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Daily/2025-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 2025-11-04"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -210,7 +215,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -219,7 +224,7 @@
             }
           },
           {
-            "id": "7c612d04a82ace40",
+            "id": "78a115a69240ff06",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -233,17 +238,7 @@
             }
           },
           {
-            "id": "d517dd7a1518a26c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "fe1eef41b7a52038",
+            "id": "d8ee76ebdc09e748",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -253,7 +248,27 @@
             }
           },
           {
-            "id": "f88138862c0273f0",
+            "id": "b16d9a37eceb166c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "e6c082cb471155c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "2d017519f5855538",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -263,11 +278,29 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
+      },
+      {
+        "id": "e1de5427c52776d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69d938f509afb5c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 258.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,54 +321,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d517dd7a1518a26c",
+  "active": "4553dd4dbbbe498c",
   "lastOpenFiles": [
-    "000_System/Templates/question-note.md",
-    "000_System/Templates/project-note.md",
-    "000_System/Templates/moc-template.md",
-    "000_System/Templates/daily-note.md",
-    "000_System/Templates/atomic-note.md",
-    "000_System/Templates/book-note.md",
-    "000_System/Templates/Шаблон для книг.md",
-    "000_System/Templates/Матрица Эйзенхауера.md",
-    "000_System/Templates/Единица Контента.md",
-    "500_Areas/Daily/2026-01-14.md",
-    "000_System/Tagging System.md",
-    "Essentials/Bucket list.md",
+    "500_Areas/Daily/2026-03-19.md",
+    "500_Areas/Daily/2026-03-18.md",
+    "400_Projects/Active/Maison Margiela Article site/Identity.md",
+    "400_Projects/Active/Gerer Construire/Potential Scaling Challenges.md",
+    "500_Areas/Daily/2026-02-09.md",
+    "500_Areas/Daily/2026-03-08.md",
+    "200_Atomic/Techniques/NX workspace module boundaries.md",
+    "500_Areas/Daily/2026-03-11.md",
+    "Excalidraw/Drawing 2026-03-18 16.09.41.excalidraw.md",
+    "600_Resources/Media/the kind of focus that makes you immune to distraction.md",
+    "500_Areas/Daily/2026-03-05.md",
+    "600_Resources/Без названия.md",
+    "400_Projects/Active/Gerer Construire/Алгоритм выполнения задачи. New Senior mindset.md",
+    "500_Areas/Daily/2026-03-04.md",
+    "400_Projects/Active/Maison Margiela Article site",
+    "500_Areas/Daily/2026-03-03.md",
+    "500_Areas/Daily/2026-03-01.md",
+    "500_Areas/Daily/2026-02-27.md",
+    "600_Resources/Books/Буддийская этика.md",
+    "000_System/Reviews/Monthly/2026-02.md",
+    "500_Areas/Daily/2026-02-26.md",
+    "500_Areas/Daily/2026-02-25.md",
+    "Фотки/Pasted image 20260225105133.png",
+    "500_Areas/Daily/2026-02-24.md",
+    "200_Atomic/Concepts/Интеллектуальные заметки - Кейдж, Борхес, Мартин и фон Нейман.md",
+    "500_Areas/Daily/2026-02-23.md",
+    "600_Resources/Media/Patterns. A Faster Way to Learn Spanish.md",
+    "400_Projects/Active/Gerer Construire/Паттерны проекта.md",
+    "Фотки/Pasted image 20260125112718.png",
+    "Фотки/Pasted image 20260125110639.png",
+    "400_Projects/Active/TicTacBoe",
+    "Excalidraw",
+    "Фотки/Pasted image 20260119083955.png",
+    "Фотки/Pasted image 20260119083924.png",
+    "Фотки/Pasted image 20260119083835.png",
+    "500_Areas/Creative/Essays",
+    "Фотки/Pasted Image 20260115124219_725.png",
+    "Фотки",
+    "400_Projects/Active/Unique learner",
+    "400_Projects/Active/Gerer Construire",
     "700_Archive/Legacy",
-    "Essentials/Claude_Complete Fiction Recommendations.md",
-    "700_Archive/Legacy/Base/Art/0192 Ключевые произведения искусства.md",
-    "Essentials/System Audit.md",
-    "000_System/Note Types.md",
-    "700_Archive/Legacy/Base/Audit Analysis.md",
-    "700_Archive/Legacy/Base/Essay_Talent.md",
-    "700_Archive/Legacy/Base/Daily/2026-01-14.md",
-    "000_System/Linking Guide.md",
-    "000_System/Properties Guide.md",
     "000_System/Reviews/Monthly",
     "000_System/Reviews/Weekly",
-    "500_Areas/Daily",
-    "600_Resources/Code",
-    "600_Resources/Media",
-    "600_Resources/Articles",
-    "600_Resources/Books",
-    "500_Areas/Relationships",
-    "500_Areas/Creative",
-    "Base/Complete Zettelkasten Upgrade Guide.md",
-    "700_Archive/Legacy/Base/Daily/2026-01-13.md",
-    "700_Archive/Legacy/Base/Daily/2026-01-12.md",
-    "Base/Addiction.md",
-    "Base/Martial arts.md",
     "700_Archive/Legacy/Фотки/Pasted image 20251116124620.png",
     "700_Archive/Legacy/Фотки/Pasted image 20251105232836.png",
     "700_Archive/Legacy/Фотки/Pasted image 20251104223412.png",
-    "700_Archive/Legacy/Фотки/Pasted image 20251104221951.png",
-    "700_Archive/Legacy/Фотки/Pasted image 20251102235233.png",
-    "Без названия.canvas",
-    "700_Archive/Legacy/Фотки/Pasted image 20251006204352.png",
-    "700_Archive/Legacy/Фотки/Pasted image 20230925115624.png",
-    "700_Archive/Legacy/Фотки/Pasted image 20230925115441.png",
-    "700_Archive/Legacy/Фотки/Pasted image 20230925114428.png",
-    "700_Archive/Legacy/Фотки/Pasted image 20230925113808.png"
+    "Без названия.canvas"
   ]
 }
