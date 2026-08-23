@@ -1,12 +1,12 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "cssTheme": "AnuPpuccin",
   "translucency": false,
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "Consolas,Lucida Fax",
+  "interfaceFontFamily": "Consolas,Bookman Old Style,Bodoni 72",
   "monospaceFontFamily": "Bahnschrift",
   "textFontFamily": "Consolas",
-  "accentColor": "#444795",
+  "accentColor": "",
   "nativeMenus": false
 }
