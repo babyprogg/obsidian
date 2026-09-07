@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39e58e4f381b3f80",
+            "id": "fa43efdb13b56363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_Atomic/Concepts/Angular Component Lifecycle.md",
+                "file": "500_Areas/Daily/2026-09-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,141 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angular Component Lifecycle"
-            }
-          },
-          {
-            "id": "0be7dae3c72a0b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200_Atomic/Concepts/Директивы и Пайпы в Angular (Directives & Custom Pipes).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Директивы и Пайпы в Angular (Directives & Custom Pipes)"
-            }
-          },
-          {
-            "id": "2bf49d6f239d7bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "400_Projects/Active/Gerer Construire/Особенности Структуры.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Особенности Структуры"
-            }
-          },
-          {
-            "id": "5e2c96e42dcbd6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100_Inbox/Учет саппортинга.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Учет саппортинга"
-            }
-          },
-          {
-            "id": "7afccf1349d280d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200_Atomic/Concepts/Change Detection & OnPush Strategy in Angular.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Change Detection & OnPush Strategy in Angular"
-            }
-          },
-          {
-            "id": "73754883ee121f1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200_Atomic/Concepts/Иерархия инжекторов и inject() в Angular.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Иерархия инжекторов и inject() в Angular"
-            }
-          },
-          {
-            "id": "cdafcff145a41652",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "2026-09-07"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -418,6 +287,76 @@
             "id": "9b87b5ce2fabc981",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "dc6391bcc387d3d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "cc5624456a4af0b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "9b691562ecf5aedf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "72f1d43cb9a22aa6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "a1dc30a08cf2830f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "0e4ea0b1cb2c5340",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "6dc8edd488d975c7",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -466,44 +405,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cdafcff145a41652",
+  "active": "fa43efdb13b56363",
   "lastOpenFiles": [
-    "200_Atomic/Concepts/Иерархия инжекторов и inject() в Angular.md",
-    "500_Areas/Daily/2026-08-23.md",
-    "500_Areas/Daily/2026-06-01.md",
-    "500_Areas/Daily/2026-06-03.md",
+    "200_Atomic/Concepts/Без названия.md",
+    "500_Areas/Daily/2026-09-07.md",
+    "500_Areas/Daily/2026-09-04.md",
+    "200_Atomic/Concepts/NgRx SignalStore (Angular).md",
+    "Self-Education.md",
+    "200_Atomic/Concepts/Modern Polymath.md",
+    "200_Atomic/Concepts/Stoic Self-Discipline.md",
+    "500_Areas/Daily/2026-09-03.md",
+    "500_Areas/Daily/2026-09-02.md",
+    "200_Atomic/Concepts/Angular Signals.md",
+    "RxJS Observables.md",
+    "Angular Dependency Injection.md",
+    "200_Atomic/Concepts/RxJS Operators & takeUntilDestroyed.md",
+    "500_Areas/Daily/2026-09-01.md",
+    "Фотки/Pasted image 20260901101719.png",
+    "Фотки/Pasted image 20260901101717.png",
+    "500_Areas/Daily/2026-08-31.md",
+    "500_Areas/Daily/2026-08-29.md",
+    "500_Areas/Daily/2026-08-26.md",
+    "Фотки/Pasted image 20260826203516.png",
+    "200_Atomic/Concepts/Angular Environments & Configuration.md",
+    "200_Atomic/Concepts/Reactive Forms в Angular.md",
     "200_Atomic/Concepts/Change Detection & OnPush Strategy in Angular.md",
-    "400_Projects/Active/Gerer Construire/чек ап список.md",
-    "500_Areas/Daily/2026-08-21.md",
-    "200_Atomic/Concepts/Angular Component Lifecycle.md",
-    "Essentials/System Audit.md",
-    "500_Areas/Daily/2026-08-19.md",
-    "200_Atomic/Concepts/Нативный control flow.md",
-    "500_Areas/Creative/Essays/Essay_Talent.md",
-    "200_Atomic/Concepts/Директивы и Пайпы в Angular (Directives & Custom Pipes).md",
-    "200_Atomic/Concepts/Фундамент веба и языка.md",
-    "500_Areas/Daily/2026-08-18.md",
-    "500_Areas/Daily/2026-08-17.md",
+    "200_Atomic/Concepts/Angular HttpClient & Interceptors.md",
+    "200_Atomic/Concepts/Роутинг - lazy loading, guards, resolvers.md",
+    "500_Areas/Daily/2026-08-25.md",
+    "500_Areas/Daily/2026-08-24.md",
+    "Фотки/Pasted image 20260824162530.png",
+    "200_Atomic/Concepts/Иерархия инжекторов и inject() в Angular.md",
+    "600_Resources/Code/Clean Architecture for Angular Applications.md",
     "Фотки/Pasted image 20260817213259.png",
     "Фотки/Pasted image 20260817213235.png",
-    "500_Areas/Daily/2026-08-12.md",
-    "500_Areas/Daily/2026-08-11.md",
-    "100_Inbox/Учет саппортинга.md",
-    "500_Areas/Daily/2026-08-03.md",
-    "500_Areas/Daily/2026-02-24.md",
-    "500_Areas/Daily/2026-07-26.md",
-    "200_Atomic/Techniques/Analytical Thinking.md",
-    "500_Areas/Daily/2026-07-19.md",
-    "500_Areas/Daily/2026-07-31.md",
-    "500_Areas/Daily/2026-07-30.md",
     "Фотки/Pasted image 20260729185309.png",
     "Фотки/Pasted image 20260727234412.png",
     "Фотки/Pasted image 20260727234313.png",
     "Фотки/Pasted image 20260719130439.png",
-    "Фотки/Pasted image 20260719130426.png",
-    "Фотки/Pasted image 20260719130354.png",
-    "Фотки/Pasted image 20260603212256.png",
-    "Фотки/Pasted image 20260519213952.png",
     "400_Projects/Active/Maison Margiela Article site",
     "400_Projects/Active/TicTacBoe",
     "Excalidraw",
