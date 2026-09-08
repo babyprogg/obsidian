@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500_Areas/Daily/2026-09-07.md",
+                "file": "500_Areas/Daily/2026-09-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-07"
+              "title": "2026-09-08"
+            }
+          },
+          {
+            "id": "51bb662c5094841b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200_Atomic/Concepts/Zoneless Change Detection (Angular).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zoneless Change Detection (Angular)"
             }
           }
         ]
@@ -357,13 +381,34 @@
             "id": "6dc8edd488d975c7",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "72cada47437c1a5a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "c498fbea73b37b85",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 19
       },
       {
         "id": "e1de5427c52776d6",
@@ -407,8 +452,13 @@
   },
   "active": "fa43efdb13b56363",
   "lastOpenFiles": [
-    "200_Atomic/Concepts/Без названия.md",
+    "000_System/Note Types.md",
+    "000_System/Properties Guide.md",
+    "000_System/Tagging System.md",
+    "500_Areas/Daily/2026-09-08.md",
     "500_Areas/Daily/2026-09-07.md",
+    "200_Atomic/Concepts/Zoneless Change Detection (Angular).md",
+    "200_Atomic/Concepts/Signal-based queries (viewChild, contentChild).md",
     "500_Areas/Daily/2026-09-04.md",
     "200_Atomic/Concepts/NgRx SignalStore (Angular).md",
     "Self-Education.md",
@@ -431,12 +481,7 @@
     "200_Atomic/Concepts/Reactive Forms в Angular.md",
     "200_Atomic/Concepts/Change Detection & OnPush Strategy in Angular.md",
     "200_Atomic/Concepts/Angular HttpClient & Interceptors.md",
-    "200_Atomic/Concepts/Роутинг - lazy loading, guards, resolvers.md",
-    "500_Areas/Daily/2026-08-25.md",
-    "500_Areas/Daily/2026-08-24.md",
     "Фотки/Pasted image 20260824162530.png",
-    "200_Atomic/Concepts/Иерархия инжекторов и inject() в Angular.md",
-    "600_Resources/Code/Clean Architecture for Angular Applications.md",
     "Фотки/Pasted image 20260817213259.png",
     "Фотки/Pasted image 20260817213235.png",
     "Фотки/Pasted image 20260729185309.png",
