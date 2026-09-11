@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500_Areas/Daily/2026-09-08.md",
+                "file": "500_Areas/Daily/2026-09-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-08"
+              "title": "2026-09-11"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_Atomic/Concepts/Zoneless Change Detection (Angular).md",
+                "file": "200_Atomic/Concepts/Content Projection и Кастомные Структурные Директивы в Angular.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zoneless Change Detection (Angular)"
+              "title": "Content Projection и Кастомные Структурные Директивы в Angular"
             }
           }
         ]
@@ -401,14 +401,23 @@
             "id": "c498fbea73b37b85",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "f3ce5ec8aca169a5",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ],
-        "currentTab": 19
+        ]
       },
       {
         "id": "e1de5427c52776d6",
@@ -450,14 +459,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa43efdb13b56363",
+  "active": "c4a1e22565798c78",
   "lastOpenFiles": [
+    "500_Areas/Daily/2026-09-09.md",
+    "500_Areas/Daily/2026-09-11.md",
+    "500_Areas/Daily/2026-09-08.md",
+    "200_Atomic/Concepts/Content Projection и Кастомные Структурные Директивы в Angular.md",
+    "200_Atomic/Concepts/Zoneless Change Detection (Angular).md",
     "000_System/Note Types.md",
     "000_System/Properties Guide.md",
     "000_System/Tagging System.md",
-    "500_Areas/Daily/2026-09-08.md",
     "500_Areas/Daily/2026-09-07.md",
-    "200_Atomic/Concepts/Zoneless Change Detection (Angular).md",
     "200_Atomic/Concepts/Signal-based queries (viewChild, contentChild).md",
     "500_Areas/Daily/2026-09-04.md",
     "200_Atomic/Concepts/NgRx SignalStore (Angular).md",
@@ -478,9 +490,6 @@
     "500_Areas/Daily/2026-08-26.md",
     "Фотки/Pasted image 20260826203516.png",
     "200_Atomic/Concepts/Angular Environments & Configuration.md",
-    "200_Atomic/Concepts/Reactive Forms в Angular.md",
-    "200_Atomic/Concepts/Change Detection & OnPush Strategy in Angular.md",
-    "200_Atomic/Concepts/Angular HttpClient & Interceptors.md",
     "Фотки/Pasted image 20260824162530.png",
     "Фотки/Pasted image 20260817213259.png",
     "Фотки/Pasted image 20260817213235.png",
