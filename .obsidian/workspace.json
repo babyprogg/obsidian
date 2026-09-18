@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500_Areas/Daily/2026-09-11.md",
+                "file": "500_Areas/Daily/2026-09-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-11"
+              "title": "2026-09-18"
             }
           },
           {
-            "id": "51bb662c5094841b",
+            "id": "e1282dfcc8ec3a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_Atomic/Concepts/Content Projection и Кастомные Структурные Директивы в Angular.md",
+                "file": "200_Atomic/Concepts/Микрофронтенды, Module Federation — общее понимание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Content Projection и Кастомные Структурные Директивы в Angular"
+              "title": "Микрофронтенды, Module Federation — общее понимание"
+            }
+          },
+          {
+            "id": "41ebab5b01e6507a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400_Projects/Active/Gerer Construire/чек ап список.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "чек ап список"
             }
           }
         ]
@@ -411,13 +435,44 @@
             "id": "f3ce5ec8aca169a5",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "db9f4f113f2d87ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "ea0b1c24b9608bfa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "cabc2325e846594e",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 23
       },
       {
         "id": "e1de5427c52776d6",
@@ -459,12 +514,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4a1e22565798c78",
+  "active": "fa43efdb13b56363",
   "lastOpenFiles": [
-    "500_Areas/Daily/2026-09-09.md",
-    "500_Areas/Daily/2026-09-11.md",
-    "500_Areas/Daily/2026-09-08.md",
+    "500_Areas/Daily/2026-09-17.md",
+    "500_Areas/Daily/2026-09-18.md",
+    "500_Areas/Daily/2026-09-16.md",
+    "400_Projects/Active/Gerer Construire/чек ап список.md",
+    "200_Atomic/Concepts/Микрофронтенды, Module Federation — общее понимание.md",
+    "200_Atomic/Concepts/Angular i18n и локализация.md",
+    "700_Archive/Legacy/Base/Masturbation/037 Тишина.md",
+    "200_Atomic/Concepts/Angular SSR и современная гидратация.md",
+    "200_Atomic/Concepts/Современные анимации в Angular.md",
+    "200_Atomic/Concepts/ControlValueAccessor в Angular.md",
+    "200_Atomic/Concepts/Angular. CDK Overlay, a11y-хелперы, Drag&Drop.md",
+    "500_Areas/Daily/2026-09-14.md",
     "200_Atomic/Concepts/Content Projection и Кастомные Структурные Директивы в Angular.md",
+    "500_Areas/Daily/2026-09-11.md",
+    "500_Areas/Daily/2026-09-09.md",
+    "500_Areas/Daily/2026-09-08.md",
     "200_Atomic/Concepts/Zoneless Change Detection (Angular).md",
     "000_System/Note Types.md",
     "000_System/Properties Guide.md",
@@ -475,21 +542,9 @@
     "200_Atomic/Concepts/NgRx SignalStore (Angular).md",
     "Self-Education.md",
     "200_Atomic/Concepts/Modern Polymath.md",
-    "200_Atomic/Concepts/Stoic Self-Discipline.md",
-    "500_Areas/Daily/2026-09-03.md",
-    "500_Areas/Daily/2026-09-02.md",
-    "200_Atomic/Concepts/Angular Signals.md",
-    "RxJS Observables.md",
-    "Angular Dependency Injection.md",
-    "200_Atomic/Concepts/RxJS Operators & takeUntilDestroyed.md",
-    "500_Areas/Daily/2026-09-01.md",
     "Фотки/Pasted image 20260901101719.png",
     "Фотки/Pasted image 20260901101717.png",
-    "500_Areas/Daily/2026-08-31.md",
-    "500_Areas/Daily/2026-08-29.md",
-    "500_Areas/Daily/2026-08-26.md",
     "Фотки/Pasted image 20260826203516.png",
-    "200_Atomic/Concepts/Angular Environments & Configuration.md",
     "Фотки/Pasted image 20260824162530.png",
     "Фотки/Pasted image 20260817213259.png",
     "Фотки/Pasted image 20260817213235.png",

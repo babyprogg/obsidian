@@ -8,5 +8,8 @@
   "monospaceFontFamily": "Bahnschrift",
   "textFontFamily": "Consolas",
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
