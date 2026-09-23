@@ -5,7 +5,8 @@ format:
 created: 2026-01-25
 accessed: 2026-01-25
 tags:
-  - resource/
+  - source/video
+  - domain/learning
 related: []
 ---
 
@@ -112,8 +113,7 @@ _Важное правило:_ Все существительные на **-c
 - [ ] 
 
 ## Related Resources
-- [[]] - 
-- [[]] - 
+- [[MOC - Polymath Architecture]] - Spanish запланирован там как secondary skill (Q3)
 
 ## Rating
 [Optional: ⭐⭐⭐⭐⭐]

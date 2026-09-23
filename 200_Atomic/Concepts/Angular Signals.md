@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-01
 updated: 2026-09-01
 tags:
-  - 
+  - domain/code
+  - type/principle
+  - angular
 related: []
 ---
 # Angular Signals
@@ -606,11 +608,15 @@ toObservable()
 
 ### Supports
 
-- [[Change Detection Strategy OnPush]] — Signals хорошо сочетаются с `OnPush` и позволяют Angular точнее отслеживать изменения состояния.
+- [[Change Detection & OnPush Strategy in Angular|Change Detection Strategy OnPush]] — Signals хорошо сочетаются с `OnPush` и позволяют Angular точнее отслеживать изменения состояния.
     
 - [[Angular Templates]] — чтение Signals в template создаёт реактивную зависимость между состоянием и UI.
     
-- [[Angular Dependency Injection]] — Signals и `effect()` часто используются внутри сервисов, получаемых через DI.
+- [[Иерархия инжекторов и inject() в Angular|Angular Dependency Injection]] — Signals и `effect()` часто используются внутри сервисов, получаемых через DI.
+
+- [[Zoneless Change Detection (Angular)]] — Signals являются основным механизмом оповещения в Zoneless-режиме.
+
+- [[Signal-based queries (viewChild, contentChild)]] — тот же реактивный паттерн, расширенный на DOM-запросы.
     
 
 ### Contradicts
@@ -622,11 +628,11 @@ toObservable()
 
 ### Extends
 
-- [[RxJS Observables]] — Signals и Observables дополняют друг друга: Signals хорошо подходят для состояния, а RxJS — для асинхронных потоков и событий.
+- [[RxJs фундамент|RxJS Observables]] — Signals и Observables дополняют друг друга: Signals хорошо подходят для состояния, а RxJS — для асинхронных потоков и событий.
     
 - [[Reactive Programming]] — Signals предоставляют декларативную модель реактивного состояния.
     
-- [[Angular State Management]] — Signals могут использоваться как основа для локального и shared state.
+- [[NgRx SignalStore (Angular)|Angular State Management]] — Signals могут использоваться как основа для локального и shared state.
     
 
 ## Questions

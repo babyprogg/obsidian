@@ -4,7 +4,9 @@ status: active
 created: 2026-01-15
 updated: 2026-01-15
 tags:
-  - project
+  - project/unique-learner
+  - domain/code
+  - domain/learning
 related:
   - "[[Unique Learner]]"
 ---

@@ -5,7 +5,9 @@ format:
 created: 2026-01-22
 accessed: 2026-01-22
 tags:
-  - resource/
+  - source/article
+  - domain/code
+  - architecture
 related: []
 ---
 
@@ -143,7 +145,9 @@ related: []
 
 ## Related Resources
 - [[Gerer Construire]] - в герере используется клин архитекчур. 
-- [[]] - 
+- [[Паттерны проекта]] - Repository Pattern Inverted и DI на уровне провайдеров — реализация этих слоёв в герере
+- [[Инварианты и приколы#Architecture Boundaries (Архитектурные границы)|Architecture Boundaries]] - концепт направления зависимостей
+- [[Reactive Forms в Angular]], [[Content Projection и Кастомные Структурные Директивы в Angular]] - ссылаются сюда как на «Clean Architecture»
 
 ## Rating
 [Optional: ⭐⭐⭐⭐⭐]

@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-16
 updated: 2026-09-16
 tags:
-  - 
+  - domain/code
+  - type/principle
+  - architecture
 related: []
 ---
 # Микрофронтенды / Module Federation — общее понимание
@@ -58,17 +60,17 @@ related: []
 
 ### Supports
 
-- None
+- [[Angular Environments & Configuration]] — у каждого микрофронтенда свой CI/CD и runtime-конфиг.
     
 
 ### Contradicts
 
-- None
+- [[NX workspace module boundaries]] — другой ответ на ту же проблему масштабирования команд: границы внутри одного монорепо на этапе линта vs независимые приложения в рантайме.
     
 
 ### Extends
 
-- None
+- [[Роутинг - lazy loading, guards, resolvers]] — lazy loading как «внутрирепозиторный» предшественник Remote-модулей.
     
 
 ## Questions

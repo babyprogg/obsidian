@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-16
 updated: 2026-09-16
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
 related: []
 ---
 # Angular i18n и локализация
@@ -47,14 +49,14 @@ L10n — зашивка в память названий дней недели �
 ## Connections
 
 ### Supports
-- [[Angular SSR и гидратация]] — правильная организация i18n через URL/Cookies предотвращает ошибки Hydration Mismatch.
+- [[Angular SSR и современная гидратация|Angular SSR и гидратация]] — правильная организация i18n через URL/Cookies предотвращает ошибки Hydration Mismatch.
 - [[Accessibility (a11y)]] — доступность интерфейса для носителей различных языков и культурных особенностей.
 
 ### Contradicts
 - [[Hardcoded Strings]] — прямое зашивание текстовых строк и жестких форматов дат прямо в шаблоны или TypeScript-код.
 
 ### Extends
-- [[Angular Pipes & Directives]] — использует механизмы трансформации данных для адаптации вывода под текущую `LOCALE_ID`.
+- [[Директивы и Пайпы в Angular (Directives & Custom Pipes)|Angular Pipes & Directives]] — использует механизмы трансформации данных для адаптации вывода под текущую `LOCALE_ID`.
 
 ## Questions
 

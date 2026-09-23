@@ -5,9 +5,8 @@ domain: psychology
 created: 2026-01-25
 updated: 2026-03-22
 tags:
-  - concept/psychology
-  - domain/motivation
-  - pattern/paralysis
+  - domain/psychology
+  - type/principle
 related: []
 ---
 
@@ -34,7 +33,7 @@ This is the core mechanism behind procrastination, unrealized ambitions, and cre
 
 ## Examples
 
-### Example 1: Unique Learner Project
+### Example 1: [[Unique Learner]] Project
 **Point A:** I have Angular skills and learning concepts
 **Point B:** Public platform serving 1000+ neurodivergent learners
 **Gap:** Architecture decisions, design, marketing, user research, etc.
@@ -101,7 +100,8 @@ This is the core mechanism behind procrastination, unrealized ambitions, and cre
 ### Supports
 - [[Essay: Talent]] - Gap is WHY you seek talent permission (if talented, Gap would vanish)
 - [[Q: Как быть великим, не ненавидя себя за то, что я ещё не там]] - Gap is the CORE of this question
-- [[Perfectionism]] - Gap widens when B must be "perfect"
+- [[Как мне преодолеть паралич собственного потенциала и разрешить себе проживать реальный, несовершенный опыт вместо созерцания его идеальной проекции в голове|Q: Как мне преодолеть паралич собственного потенциала]] - «созерцание идеальной проекции в голове» = watching movies about B
+- [[Преодоление внутреннего барьера. Руководство по работе с перфекционизмом, руминацией и синдромом самозванца|Perfectionism]] - Gap widens when B must be "perfect"
 
 ### Contradicts
 - [[Stoic Self-Discipline]] - "Don't expect" vs. "Pursue B state"
@@ -110,6 +110,13 @@ This is the core mechanism behind procrastination, unrealized ambitions, and cre
 ### Extends
 - [[Зона ближайшего развития]] (Vygotsky) - Gap should be challenging but not impossible
 - [[Growth Mindset]] - Gap as learning opportunity vs. inadequacy proof
+
+### Из дневников
+- [[2026-09-14]] - «начинаю прокрастинировать, когда представляю определённое чувство во время выполнения задачи» — Gap, пойманный в моменте
+- [[2026-02-24]] - «всегда нужно ждать момента, когда уже есть навыки?»; «если всегда точить ножи — сталь заржавеет»; корабль в гавани
+- [[2026-03-28]] - «сравниваю свой путь, поднявшись на одну ступень, когда столько этажей впереди» + «разбить на мелкие шаги» (= B1/B2/B3)
+- [[2026-09-08]] - «страх сделать шаг в неопределённость и встретиться с реальным трением от работы»
+- [[2026-01-18]] - «Разрешить себе быть посредственным»
 
 ## Questions
 

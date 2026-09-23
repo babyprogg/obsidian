@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-16
 updated: 2026-09-16
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
 related: []
 ---
 # Современные анимации в Angular (вместо `@angular/animations`)
@@ -92,7 +94,7 @@ export class AccordionComponent {
 
 - [[View Transitions API]]
     
-- [[Modern Angular Signals]]
+- [[Angular Signals|Modern Angular Signals]]
     
 
 ## Questions

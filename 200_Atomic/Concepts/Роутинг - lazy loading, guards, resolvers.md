@@ -1,11 +1,15 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-25
 updated: 2026-08-25
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
+  - routing
+  - architecture
 related: []
 ---
 # Angular Routing Architecture
@@ -536,9 +540,9 @@ withComponentInputBinding
 
 - [[Angular Standalone Components]] — routing напрямую поддерживает lazy loading Standalone Components через `loadComponent`.
     
-- [[Angular Dependency Injection]] — Guards и Resolvers используют `inject()` для получения зависимостей.
+- [[Иерархия инжекторов и inject() в Angular|Angular Dependency Injection]] — Guards и Resolvers используют `inject()` для получения зависимостей.
     
-- [[RxJS]] — HTTP-запросы в Resolver обычно возвращают `Observable`.
+- [[RxJs фундамент|RxJS]] — HTTP-запросы в Resolver обычно возвращают `Observable`.
     
 - [[Angular Signals]] — route data может преобразовываться в Signals или передаваться через `input()`.
     
@@ -548,6 +552,8 @@ withComponentInputBinding
 - [[God Component]] — routing architecture помогает не помещать navigation, authorization и data fetching непосредственно в компонент.
     
 - [[Eager Loading Everything]] — Lazy Loading противопоставляется загрузке всего приложения сразу.
+
+- [[Микрофронтенды, Module Federation — общее понимание]] — следующий уровень разделения: не lazy-чанки одного приложения, а независимые приложения в рантайме.
     
 
 ### Extends
@@ -559,6 +565,8 @@ withComponentInputBinding
 - [[Angular Guards]] — подробнее рассматривает контроль доступа.
     
 - [[Angular Resolvers]] — подробнее рассматривает получение данных до активации маршрута.
+
+- [[Современные анимации в Angular]] — переходы между роутами через `withViewTransitions()`.
     
 
 ## Questions

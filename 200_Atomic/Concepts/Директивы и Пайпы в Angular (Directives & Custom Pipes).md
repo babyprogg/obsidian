@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-18
 updated: 2026-08-18
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
 related: []
 ---
 # Директивы и Пайпы в Angular (Directives & Custom Pipes)
@@ -117,13 +119,14 @@ export class TimeAgoPipe implements PipeTransform {
 
 - **Supports:**
     
-    - `[[Angular Change Detection]]` — чистые пайпы минимизируют лишние вычисления во время цикла проверки изменений.
+    - [[Change Detection & OnPush Strategy in Angular|Angular Change Detection]] — чистые пайпы минимизируют лишние вычисления во время цикла проверки изменений.
         
     - `[[Immutability in JavaScript]]` — понимание работы ссылочных типов является обязательным условием для корректного применения Pure Pipes.
         
 - **Extends:**
     
-    - `[[Angular Templates & Control Flow]]` — дополняет синтаксис шаблонов инструментами трансформации и декларативного управления DOM.
+    - [[Angular i18n и локализация]] — `date`/`currency`/`number` пайпы + `LOCALE_ID`: пайпы как механизм локализации.
+    - [[Нативный control flow|Angular Templates & Control Flow]] — дополняет синтаксис шаблонов инструментами трансформации и декларативного управления DOM.
 
 ### Questions
 

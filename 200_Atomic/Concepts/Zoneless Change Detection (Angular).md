@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-08
 updated: 2026-09-08
 tags:
-  - 
+  - domain/code
+  - type/principle
+  - angular
 related: []
 ---
 # Zoneless Change Detection (Angular)
@@ -109,7 +111,7 @@ export class UserProfileComponent {
 
 ### Extends
 
-* [[OnPush Change Detection]] — Доводит идею локального и явного обновления компонентов до абсолюта.
+* [[Change Detection & OnPush Strategy in Angular|OnPush Change Detection]] — Доводит идею локального и явного обновления компонентов до абсолюта.
 
 ## Questions
 

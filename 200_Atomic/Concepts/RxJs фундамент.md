@@ -1,14 +1,19 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-06-08
 updated: 2026-06-08
 tags:
-  - 
+  - domain/code
+  - type/principle
+  - rxjs
+aliases:
+  - RxJS Observables
+  - RxJS
 related: []
 ---
-# <% tp.file.title %>
+# RxJs фундамент
 
 ## Core Idea
 RxJS (Reactive Extensions for JavaScript) — это инструмент для управления асинхронными данными. Он превращает любые события (клики, HTTP-запросы, ввод текста) в управляемые «потоки воды» (Observable), внутри которых данные можно фильтровать, трансформировать и комбинировать до того, как они попадут на экран.
@@ -58,17 +63,21 @@ this.paymentClick$.pipe(
 
 1. Не подписывайся в компонентах вручную: По возможности используй async пайп в HTML шаблоне (`data$ | async`) — Angular сам подпишется и сам отпишется.
     
-2. Если подписываешься в `.ts`: Всегда используй оператор `takeUntilDestroyed()` в конструкторе, чтобы избежать утечек памяти при уничтожении компонента.
+2. Если подписываешься в `.ts`: Всегда используй оператор `takeUntilDestroyed()` в конструкторе, чтобы избежать утечек памяти при уничтожении компонента (подробно: [[RxJS Operators & takeUntilDestroyed]]).
     
 3. Прячь Subject: Держи BehaviorSubject приватным внутри сервиса (`private _state$`), а наружу отдавай только `state$ = this._state$.asObservable()`.
 
 ## Connections
 
-### Supports(пока не созданы)
+### Supports
 
-- [[Angular Change Detection (OnPush)]] - Потоки идеально поставляют данные для стратегии OnPush через async пайп.
+- [[Change Detection & OnPush Strategy in Angular|Angular Change Detection (OnPush)]] - Потоки идеально поставляют данные для стратегии OnPush через async пайп.
     
-- [[State Management patterns]] - Потоки лежат в основе управления состоянием приложения.
+- [[State Management patterns]] - Потоки лежат в основе управления состоянием приложения. (см. [[NgRx SignalStore (Angular)]] — там RxJS остаётся только для `rxMethod`)
+    
+- [[Angular HttpClient & Interceptors]] - HttpClient построен на Observable; паттерн typeahead/switchMap из Example 1 — это и есть его типичное применение.
+    
+- [[Reactive Forms в Angular]] - `valueChanges` / `statusChanges` — те же потоки с `debounceTime` + `switchMap`.
 
 ### Contradicts
 
@@ -77,7 +86,7 @@ this.paymentClick$.pipe(
 
 ### Extends
 
-- [[Asynchronous JavaScript]] - Расширяет базовые концепции Event Loop и асинхронных событий до уровня мощных функциональных пайплайнов.
+- [[Фундамент веба и языка|Asynchronous JavaScript]] - Расширяет базовые концепции Event Loop и асинхронных событий до уровня мощных функциональных пайплайнов.
     
 
 ## Questions
@@ -96,6 +105,6 @@ this.paymentClick$.pipe(
 
 **Review Status:**
 
-- **Last reviewed:** <% tp.date.now("YYYY-MM-DD") %>
+- **Last reviewed:** 2026-06-08
     
-- **Next review:** <% tp.date.now("YYYY-MM-DD", 30) %>
+- **Next review:** 2026-07-08

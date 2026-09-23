@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-14
 updated: 2026-09-14
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
 related: []
 ---
 # Angular CDK: Overlay, a11y & Drag and Drop
@@ -54,7 +56,7 @@ Angular CDK (Component Development Kit) — это набор бессервер
 
 - [[Angular Component Architecture]] — разделение ответственности между логикой взаимодействия (CDK) и представлением (Stated/UI Component).
     
-- [[Design Systems]] — позволяет строить масштабируемые кастомные киты компонентов с единым поведением.
+- [[Design Systems]] — позволяет строить масштабируемые кастомные киты компонентов с единым поведением. (в Gerer Construire это libs/design-system: modal, side-sheet, dropdown, menu — см. [[Общий разбор папки libs]])
     
 
 ### Contradicts

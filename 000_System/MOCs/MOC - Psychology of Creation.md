@@ -7,6 +7,9 @@ topics:
   - perfectionism
   - identity
 coverage: 45%
+aliases:
+  - "MOC: Psychology of Creation"
+  - Psychology of Creation MOC
 ---
 
 # MOC: Psychology of Creation
@@ -35,7 +38,8 @@ This map addresses your central struggle: You have ambition, curiosity, and skil
 - [[Gap-Разрыв]] - The paralysis between current state and aspiration
 - [[Essay: Talent]] - Your raw, honest exploration of talent anxiety
 - [[Q: Как быть великим, не ненавидя себя за то, что я ещё не там]] - The central question driving this MOC
-- [[Article: Преодоление внутреннего барьера]] - Perfectionism, rumination, imposter syndrome guide
+- [[Преодоление внутреннего барьера. Руководство по работе с перфекционизмом, руминацией и синдромом самозванца|Article: Преодоление внутреннего барьера]] - Perfectionism, rumination, imposter syndrome guide
+- [[Как мне преодолеть паралич собственного потенциала и разрешить себе проживать реальный, несовершенный опыт вместо созерцания его идеальной проекции в голове|Q: Как мне преодолеть паралич собственного потенциала]] - Second core question (perfectionism paralysis)
 
 ### Belief Structures
 [What you believe that blocks you]
@@ -65,6 +69,14 @@ From your essay, line 5-6:
 "Я не хочу заниматься музыкой чтобы впечатлить кого то, но я будто бы хочу быть талантлив в музыке чтобы на мне был ярлык 'талантливый'"
 
 **Pattern:** You're not performing for others (healthy) but for an imagined tribunal judging your worthiness (unhealthy).
+
+### Перенесено из архива (2026-09-23)
+
+- [[Dont try]] - парадокс стараний, процесс вместо цели (Буковски, Зенон)
+- [[The Power of Delusional Self Belief]] - 4-минутная миля, Гейтс, Тарантино
+- [[The Power of Patience]] - long-term success, «делать вещи с мили задержкой»
+- [[Rules I follow everyday]] - «прогресс ценнее чем идеальное», разгрузочные дни
+- [[Вы, конечно, шутите Мистер Фейнман]] - «не понимаешь — не потому что дурак»
 
 ## Structure
 
@@ -175,7 +187,7 @@ Gap → "I need talent to cross it" → Comparison → "I'm not talented enough"
 ### Philosophical Foundations
 - [[Stoic Self-Discipline]] - "Don't expect" vs. "Pursue greatness" tension
 - [[Интеллектуальные заметки]] - Cage, Martin, Borges on creativity from "nothing"
-- [[Article: Hunger to be Everything]] - Polymathic desire as source of suffering?
+- [[the hunger to be everything.|Article: Hunger to be Everything]] - Polymathic desire as source of suffering?
 
 ### Unexpected Connections
 - [[Creative Problem Solving]] - Insight mode requires STOPPING analytical criticism
@@ -197,7 +209,7 @@ Gap → "I need talent to cross it" → Comparison → "I'm not talented enough"
 **Application Questions:**
 - [[Q: How do successful creators handle self-doubt?]]
 - [[Q: What's the minimum daily practice that maintains creative momentum?]]
-- [[Q: Can systems thinking be applied to emotional patterns?]]
+- [[Q: Can systems thinking be applied to emotional patterns?]] → см. [[Системное мышление по Медоуз]]
 
 ## The Answer (In Progress)
 
@@ -238,8 +250,9 @@ Your research and essay have brought you 85% to the answer. Here's what you've d
 - [[Cal Newport - So Good They Can't Ignore You]] - Skill vs. passion
 
 ### Articles
-- [[Article: Преодоление внутреннего барьера]] - Perfectionism guide
-- [[Article: The Hunger to Be Everything]] - Polymathic desire warning
+- [[Преодоление внутреннего барьера. Руководство по работе с перфекционизмом, руминацией и синдромом самозванца|Article: Преодоление внутреннего барьера]] - Perfectionism guide
+- [[the hunger to be everything.|Article: The Hunger to Be Everything]] - Polymathic desire warning
+- [[Буддийская этика]] - Insight 1: приоритет намерения над результатом (process > results)
 
 ### Projects as Therapy
 - [[Unique Learner]] - Build for others what you need yourself

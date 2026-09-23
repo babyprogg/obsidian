@@ -1,11 +1,14 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-26
 updated: 2026-08-26
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
+  - rxjs
 related: []
 ---
 # Angular HttpClient & Interceptors
@@ -609,11 +612,11 @@ this.http.get<User[]>(url);
 
 - [[Angular Architecture]] — помогает отделить HTTP/network layer от UI и business logic.
     
-- [[RxJS Design Patterns]] — `HttpClient` использует Observables и реактивные операторы для управления потоками данных.
+- [[RxJs фундамент|RxJS Design Patterns]] — `HttpClient` использует Observables и реактивные операторы для управления потоками данных.
     
-- [[Angular Dependency Injection]] — Functional Interceptors получают зависимости через `inject()`.
+- [[Иерархия инжекторов и inject() в Angular|Angular Dependency Injection]] — Functional Interceptors получают зависимости через `inject()`.
     
-- [[TypeScript Generics]] — generic-типы вроде `http.get<User[]>()` обеспечивают типизацию API responses.
+- [[Фундамент веба и языка|TypeScript Generics]] — generic-типы вроде `http.get<User[]>()` обеспечивают типизацию API responses.
     
 
 ### Contradicts
@@ -630,6 +633,8 @@ this.http.get<User[]>(url);
 - [[Chain of Responsibility]] — каждый interceptor передаёт request следующему элементу цепочки.
     
 - [[Angular Services]] — `HttpClient` обычно используется внутри сервисов для взаимодействия с API.
+
+- [[Паттерны проекта]] — Repository Pattern: `HttpClient` живёт в слое Infrastructure, а не в компонентах (лог Gerer от 2026-01-21 — mock interceptor).
     
 
 ## Questions

@@ -1,11 +1,14 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-04
 updated: 2026-09-04
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
+  - architecture
 related: []
 ---
 # NgRx SignalStore (Angular)
@@ -96,6 +99,8 @@ export const ProductsStore = signalStore(
 - [[Angular Signals]] — выступает высокоуровневым архитектурным фреймворком над примитивами сигналов (`signal`, `computed`).
     
 - [[Component-Driven Architecture]] — изолирует логику состояния внутри компонента или фичи.
+
+- [[Особенности Структуры]] — Gerer Construire использует @ngrx/signals вместо RxJS-heavy паттернов (п.4).
     
 
 ### Contradicts
@@ -107,7 +112,7 @@ export const ProductsStore = signalStore(
 
 ### Extends
 
-- [[RxJS in Angular]] — заменяет `BehaviorSubject` в управлении состоянием, оставляя RxJS для управления потоками событий и HTTP через `rxMethod`.
+- [[RxJs фундамент|RxJS in Angular]] — заменяет `BehaviorSubject` в управлении состоянием, оставляя RxJS для управления потоками событий и HTTP через `rxMethod`.
     
 
 ## Questions

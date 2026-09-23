@@ -6,6 +6,8 @@ topics:
   - productivity
   - cognition
 coverage: 65%
+aliases:
+  - "MOC: Learning Systems"
 ---
 
 # MOC: Learning Systems
@@ -50,6 +52,18 @@ This map connects the science of learning with practical techniques you can appl
 #### Problem-Solving Frameworks
 - [[TRIZ Method]] - 6 systematic creativity techniques
 - [[First Principles Thinking]] - Break down to rebuild better
+
+### Перенесено из архива (2026-09-23)
+[Старые конспекты в своей исходной форме, без переписывания]
+
+- [[Мета-навыки]] - корневые навыки: адаптивность, чуйка, осознанность, toughness
+- [[5 Факторов построения фонового знания]] - порядок → осмысление → концептуализация → конкретизация → актуализация (Баумейстер)
+- [[5 principles to be a better thinker]] - метапознание, biases, second-level thinking
+- [[25 Useful Thinking Tools]] - мышление как набор инструментов разных профессий (Мангер)
+- [[Обратное проектирование]] - от конечной картины к шагам
+- [[Как запоминать все, что учишь]] - Фейнман, active recall, интервальные повторения
+- [[Как лучше учиться]] - план → сбор → работа с данными → practice testing
+- [[Как написать эссе - Дж.Питерсон]] - слово → предложение → абзац → эссе
 
 ## Structure
 
@@ -174,6 +188,7 @@ Track which techniques actually work for YOU:
 - [[Суперобучение]] - Source for Pomodoro and principles
 - [[How to Take Smart Notes]] - Zettelkasten method
 - [[Building a Second Brain]] - PARA organization
+- [[the kind of focus that makes you immune to distraction]] - focus = absence of distraction, not willpower
 
 ### Projects
 - [[Unique Learner]] - Teaching platform implementing these principles

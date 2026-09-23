@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-19
 updated: 2026-08-19
 tags:
-  - 
+  - domain/code
+  - type/principle
+  - angular
 related: []
 ---
 # Angular Component Lifecycle
@@ -62,7 +64,11 @@ export class ChartComponent implements AfterViewInit {
 
 ## Connections
 Supports
-* [[Angular Change Detection Mechanics]] — хуки жизненного цикла служат точками входа и контроля в процессе обнаружения изменений.
+* [[Change Detection & OnPush Strategy in Angular|Angular Change Detection Mechanics]] — хуки жизненного цикла служат точками входа и контроля в процессе обнаружения изменений.
+* [[RxJS Operators & takeUntilDestroyed]] — современная замена ручной отписки в 
+gOnDestroy (Key Point 4, How to Apply п.2).
+* [[Signal-based queries (viewChild, contentChild)]] — замена @ViewChild + 
+gAfterViewInit из Example 2.
 Contradicts
 * [[Imperative DOM Manipulation in Vanilla JS]] — Angular управляет DOM-деревом и состоянием компонентов через декларативный жизненный цикл, запрещая прямое удаление или создание узлов в обход фреймворка.
 Extends

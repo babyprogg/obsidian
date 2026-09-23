@@ -6,7 +6,8 @@ updated: 2026-01-25
 deadline:
 next-action:
 tags:
-  - project/active
+  - project/tictacboe
+  - domain/code
 ---
 
 # Project: TicTacBoe

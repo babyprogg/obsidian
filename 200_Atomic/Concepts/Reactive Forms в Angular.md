@@ -1,13 +1,14 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-24
 updated: 2026-08-24
 tags:
+  - domain/code
+  - type/technique
   - angular
-  - frontend
-  - architecture
+  - rxjs
 related: []
 ---
 
@@ -72,7 +73,7 @@ addSkill(): void {
 
 - **Supports**
     
-    - [[Clean Architecture]] — Изолирует бизнес-логику валидации и управления вводом от UI-слоя.
+    - [[Clean Architecture for Angular Applications|Clean Architecture]] — Изолирует бизнес-логику валидации и управления вводом от UI-слоя.
         
     - [[Unit Testing in Angular]] — Позволяет тестировать сценарии ввода и валидации без создания DOM-элементов.
         
@@ -82,9 +83,11 @@ addSkill(): void {
         
 - **Extends**
     
-    - [[RxJS Observables]] — Использует архитектуру Observer для передачи изменений состояния через `valueChanges`.
+    - [[RxJs фундамент|RxJS Observables]] — Использует архитектуру Observer для передачи изменений состояния через `valueChanges`.
         
     - [[Angular Signals]] — Служит основой для конвертации потоков формы в сигналы через `toSignal()`.
+    - [[ControlValueAccessor в Angular]] — как подключить кастомный компонент к `FormControl`.
+    - [[Potential Scaling Challenges]] — Challenge 2 (многошаговые формы) — проблема, для которой это инструмент.
         
 
 ### Questions

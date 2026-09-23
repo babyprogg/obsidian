@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-03-18
 updated: 2026-03-18
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - architecture
 related: []
 ---
 
@@ -50,13 +52,15 @@ related: []
 ## Connections
 
 ### Supports
-- [[]] - How this note supports another concept
+- [[Potential Scaling Challenges]] - Challenge 1 (Module Interdependencies / Tight Coupling) — ровно та проблема, которую решает это правило
+- [[Особенности Структуры]] - Nx Monorepo + DDD layering в Gerer Construire — где это применяется
+- [[Инварианты и приколы#Architecture Boundaries (Архитектурные границы)|Architecture Boundaries]] - концепт, который здесь превращён в lint-правило
 
 ### Contradicts
-- [[]] - What this disagrees with
+- [[Микрофронтенды, Module Federation — общее понимание]] - альтернативный способ изоляции команд: рантайм вместо линта
 
 ### Extends
-- [[]] - What this builds upon
+- [[Иерархия инжекторов и inject() в Angular]] - изоляция сервисов по слоям/слайсам (там упоминается FSD)
 
 ## Questions
 

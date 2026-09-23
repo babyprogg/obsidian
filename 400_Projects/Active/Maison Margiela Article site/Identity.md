@@ -6,7 +6,9 @@ updated: 2026-03-04
 deadline:
 next-action:
 tags:
-  - project/active
+  - project/margiela
+  - domain/art
+  - domain/code
 ---
 
 # Project: 0330
@@ -92,6 +94,9 @@ tags:
 - [[Related Project]] - How they connect
 
 ### Notes
+- [[2026-03-04]] - идея проекта родилась здесь («сайт по эстетикам Мэйсона Марджелы и писать там статьи»)
+- [[2026-07-27]] - Pierre Soulages, Richard Hambleton — визуальные референсы
+- [[2026-07-29]] - Sontag, Didion, «taste is a trust»
 - [[Relevant Concept]]
 - Known for deconstructive and avant-garde designs with unconventional materials, Maison Margiela has traditionally held live shows in unusual settings, for example empty metro stations and street corners. Models' faces are often obscured by fabric or long hair to direct attention to the clothes and design.
 - 

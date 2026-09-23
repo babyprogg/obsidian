@@ -4,7 +4,8 @@ status: active
 created: 2026-01-15
 updated: 2026-01-15
 tags:
-  - project
+  - project/gerer-construire
+  - domain/code
 related: []
 ---
 
@@ -115,8 +116,10 @@ DESIGN-SYSTEM (Reusable UI) ↓ MODULES (Feature Modules) ├─ core (shared se
 - 
 
 ## Links
-- [[]] - 
-- [[]] - 
+- [[Особенности Структуры]] - зачем такая структура
+- [[Angular. CDK Overlay, a11y-хелперы, Drag&Drop]] - modal / side-sheet / dropdown / menu в design-system — это CDK Overlay
+- [[ControlValueAccessor в Angular]] - `design-system/cdk/forms` (Custom Form Control Kit)
+- [[Content Projection и Кастомные Структурные Директивы в Angular]] - Atomic Design в design-system/components
 
 ## Sources
 - 

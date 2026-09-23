@@ -5,7 +5,8 @@ format:
 created: 2026-01-21
 accessed: 2026-01-21
 tags:
-  - resource/
+  - source/article
+  - domain/psychology
 related: []
 ---
 

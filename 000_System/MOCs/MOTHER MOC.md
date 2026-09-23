@@ -1,4 +1,5 @@
 # WORK
+- [[MOC - Angular]]
 - [[MOC OF COMPUTER SCIENCE]]
 - [[MOC OF C]]
 - [[MOC OF PYTHON]]
@@ -9,6 +10,11 @@
 
 ## TOOLS
 - [[MOC OF READING]]
+- [[MOC - Learning Systems]]
+
+## MIND
+- [[MOC - Psychology of Creation]]
+- [[MOC - Polymath Architecture]]
 
 
 
