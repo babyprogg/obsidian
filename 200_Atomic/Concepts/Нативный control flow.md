@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-19
 updated: 2026-08-19
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
 related: []
 ---
 # Нативный control flow (@if/@for/@switch)
@@ -71,7 +73,7 @@ related: []
 * [[Type Safety in Angular Templates]] — Позволяет сужать типы внутри условных блоков без дополнительных кастов.
 
 ### Contradicts
-* [[Angular Structural Directives (*ngIf, *ngFor)]] — Заменяет устаревший подход с микросинтаксисом со звёздочкой и обёртками <ng-template>.
+* [[Директивы и Пайпы в Angular (Directives & Custom Pipes)|Angular Structural Directives (*ngIf, *ngFor)]] — Заменяет устаревший подход с микросинтаксисом со звёздочкой и обёртками <ng-template>.
 
 ### Extends
 * [[Angular Template Syntax]] — Расширяет возможности шаблонизатора Angular, делая его встроенным на уровне компилятора framework'а.

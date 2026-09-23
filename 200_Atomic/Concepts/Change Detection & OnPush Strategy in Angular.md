@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-23
 updated: 2026-08-23
 tags:
-  - 
+  - domain/code
+  - type/principle
+  - angular
 related: []
 ---
 # Change Detection & OnPush Strategy in Angular
@@ -78,6 +80,14 @@ export class CounterComponent {
 ## Connections Supports
 
 - [[Angular Signals]] - Сигналы обеспечивают точечную уведомляемость для OnPush и Zoneless архитектуры.
+    
+- [[Zoneless Change Detection (Angular)]] - Key Point 4 и Example 2 развёрнуты в отдельной заметке.
+    
+- [[RxJs фундамент]] - sync pipe как триггер OnPush (How to Apply, п.4).
+    
+- [[Angular Component Lifecycle]] - хуки 
+gOnChanges/
+gDoCheck как точки входа в цикл проверки.
     
 - [[Immutability in JS]] - Иммутабельность данных гарантирует корректную работу сравнения ссылок в `@Input`.
     

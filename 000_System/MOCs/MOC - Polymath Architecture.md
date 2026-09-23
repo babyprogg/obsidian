@@ -7,6 +7,8 @@ topics:
   - identity
   - career
 coverage: 50%
+aliases:
+  - "MOC: Polymath Architecture"
 ---
 
 # MOC: Polymath Architecture
@@ -34,7 +36,6 @@ coverage: 50%
 
 - [[Modern Polymath]] - Definition, characteristics, benefits
 - [[T-Shaped Skills]] - Depth in one area, breadth across many
-- [[Life of Ultimate Focus]] - The seemingly contradictory pole
 - [[Stoic Self-Discipline]] - Managing desire and expectation
 
 ### The Tension
@@ -54,7 +55,6 @@ coverage: 50%
 
 **Curiosity vs Mastery:**
 - [[Modern Polymath]]: Follow curiosity everywhere
-- [[Life of Ultimate Focus]]: Sustained attention builds mastery
 - Your talent essay: "Почему я не могу просто заниматься делами потому что мне весело?"
 
 ### Skills Architecture Models
@@ -78,6 +78,14 @@ coverage: 50%
 - One dominant spike: Career anchor
 - Several smaller spikes: Developed hobbies
 - **Structure:** 70% depth / 20% secondary / 10% exploration
+
+### Перенесено из архива (2026-09-23)
+
+- [[Универсалы]] - конспект «Range» Эпстайна: широта, «поиграй со своими потенциальными я»
+- [[Живи как Леонардо]] - sensazione, «art in science and science in the arts»
+- [[Dark horse mindset]] - personal fulfilment выше общественного успеха, micro-motives
+- [[100 soldiers - goal tracking system]] - 80% солдат на главное, остальное в maintenance
+- [[Человек Мыслящий]] - столпы: энергия, экономность, точность, готовность
 
 ## Structure
 
@@ -201,19 +209,6 @@ Your professional notes show senior-level thinking emerging:
 
 **Reality:** This depth took years. It's your anchor. Protect it while exploring.
 
-### The Focus Paradox
-
-[[Life of Ultimate Focus]] seems to contradict [[Modern Polymath]], but actually:
-
-**Ultimate focus = Choosing what to focus on RIGHT NOW**
-
-Not "focus on one thing forever" but "focus on one thing per session."
-
-**Resolution:**
-- Pomodoro 1-4: Angular feature (ultimate focus)
-- Pomodoro 5-6: Film editing tutorial (ultimate focus)
-- Different objects, same quality of attention
-
 ## Active Questions
 
 **Strategic Questions:**
@@ -321,6 +316,8 @@ Not "focus on one thing forever" but "focus on one thing per session."
 - [[First Principles Thinking]] - Apply to polymath design
 - [[Study Less Study Smart]] - Efficient learning enables breadth
 - [[Creative Problem Solving]] - Cross-domain thinking
+- [[Patterns. A Faster Way to Learn Spanish]] - Spanish (Q3)
+- [[the hunger to be everything.]] - обратная сторона полиматии: «I do not want more doors»
 
 ### Living Examples
 - Leonardo da Vinci - Your inspiration

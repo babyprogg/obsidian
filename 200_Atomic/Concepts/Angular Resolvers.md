@@ -1,23 +1,19 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-06-11
 updated: 2026-06-11
 tags:
-  - angular
-related: []
----
----
-tags:
+  - domain/code
+  - type/technique
   - angular
   - routing
   - architecture
-  - frontend
 aliases:
   - Резолверы в Angular
   - Функциональные резолверы
-date: 2026-06-11
+related: []
 ---
 
 # Angular Resolvers (Резолверы данных)
@@ -91,7 +87,9 @@ export const productResolver: ResolveFn<Product> = (route: ActivatedRouteSnapsho
 2. **Глобальный лоадер:** Чтобы избежать эффекта «зависания» интерфейса, всегда вешай спиннер на глобальные события роутера (`NavigationStart` / `NavigationEnd`).
 ### См. также (Связанные заметки)
 
-- [[Angular Routing Lifecycle]]
+- [[Роутинг - lazy loading, guards, resolvers|Angular Routing Lifecycle]]
+    
+- [[RxJs фундамент]] — «холодный» Observable и `complete` (нюанс №1 про одноразовость потока)
     
 - [[State Management: NgRx Router Store]]
     

@@ -1,11 +1,14 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-26
 updated: 2026-08-26
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
+  - architecture
 related: []
 ---
 # Angular Environments & Configuration

@@ -5,7 +5,9 @@ format:
 created: 2026-03-06
 accessed: 2026-03-06
 tags:
-  - resource/
+  - source/video
+  - domain/learning
+  - domain/psychology
 related: []
 ---
 
@@ -101,8 +103,9 @@ related: []
 - [ ] 
 
 ## Related Resources
-- [[]] - 
-- [[]] - 
+- [[Интеллектуальные заметки - Кейдж, Борхес, Мартин и фон Нейман]] - тот же вопрос про шум/тишину с другой стороны (эффект кофейни, фон Нейман)
+- [[Pomodoro Technique]] - тактический слой к фазам Activation/Immersion
+- [[Unique Learner]] - дизайн обучения под внимание (ADHD)
 
 ## Rating
 [Optional: ⭐⭐⭐⭐⭐]

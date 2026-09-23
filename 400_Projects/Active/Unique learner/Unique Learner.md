@@ -6,7 +6,10 @@ updated: 2026-01-15
 deadline:
 next-action:
 tags:
-  - project/active
+  - project/unique-learner
+  - domain/code
+  - domain/learning
+  - connect/learning-teaching
 ---
 
 # Project: Unique learner(needs renaming)
@@ -94,7 +97,7 @@ tags:
 
 ### Knowledge
 - Need to learn: [[]]
-- Reference: [[]]
+- Reference: [[Study Less Study Smart]] (принципы, которые платформа реализует), [[the kind of focus that makes you immune to distraction]] (дизайн под внимание/ADHD), [[Gap-Разрыв]] (Example 1 — этот проект как пример паралича), [[MOC - Learning Systems]]
 
 ### Tools
 - 

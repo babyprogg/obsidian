@@ -1,11 +1,14 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-08-23
 updated: 2026-08-23
 tags:
-  - 
+  - domain/code
+  - type/principle
+  - angular
+  - architecture
 related: []
 ---
 # Иерархия инжекторов и inject() в Angular
@@ -86,11 +89,17 @@ export class UserProfileComponent {
 - [[Разделение обязанностей]] — Оставляет компоненты "тонкими", делегируя расчеты и запросы в сервисы.
     
 - [[Feature-Sliced Design]] — Помогает изолировать сервисы в рамках конкретных слоев и слайсов.
+
+- [[Паттерны проекта]] — Pattern 3 (DI at the Provider Level) — практическое применение providers/useFactory в Gerer Construire.
+
+- [[Роутинг - lazy loading, guards, resolvers]] — functional guards/resolvers работают в Injection Context; EnvironmentInjector для ленивых маршрутов.
+
+- [[Angular HttpClient & Interceptors]] — functional interceptors получают зависимости через inject().
     
 
 ### Contradicts
 
-- [[Жесткая связанность]] — Предотвращает прямое создание экземпляров через `new Service()` внутри компонентов.
+- [[Potential Scaling Challenges|Жесткая связанность]] — Предотвращает прямое создание экземпляров через `new Service()` внутри компонентов.
     
 
 ### Extends

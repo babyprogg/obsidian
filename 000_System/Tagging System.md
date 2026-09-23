@@ -51,6 +51,10 @@
 ### 6. Project Tags (#project/)
 **Purpose**: Related to active work
 
+- #project/gerer-construire
+- #project/unique-learner
+- #project/tictacboe
+- #project/margiela
 - #project/jarvis
 - #project/100soldiers
 - #project/learning-app
@@ -63,6 +67,14 @@
 - #source/video
 - #source/experience
 - #source/conversation
+
+### 8. Topic Tags (плоские, внутри #domain/code)
+**Purpose**: Уточнение темы внутри домена, без иерархии
+
+- #angular
+- #rxjs
+- #routing
+- #architecture
 
 ## Tag Rules
 

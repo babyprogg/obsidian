@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-16
 updated: 2026-09-16
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
 related: []
 ---
 # ControlValueAccessor в Angular
@@ -62,9 +64,9 @@ related: []
 
 ### Supports
 
-- [[Angular Reactive Forms]] — позволяет включать сложные UI-компоненты в структуры `FormGroup` и `FormArray`.
+- [[Reactive Forms в Angular|Angular Reactive Forms]] — позволяет включать сложные UI-компоненты в структуры `FormGroup` и `FormArray`.
     
-- [[Angular Dependency Injection]] — использует мульти-провайдеры (`multi: true`) для связывания с механизмом форм.
+- [[Иерархия инжекторов и inject() в Angular|Angular Dependency Injection]] — использует мульти-провайдеры (`multi: true`) для связывания с механизмом форм.
     
 
 ### Contradicts
@@ -75,6 +77,8 @@ related: []
 ### Extends
 
 - [[Component-Driven Architecture]] — превращает обычные UI-компоненты в переиспользуемые элементы форм.
+
+- [[Общий разбор папки libs]] — design-system/cdk/forms (Custom Form Control Kit) в Gerer Construire — место, где CVA применяется на практике.
     
 
 ## Questions

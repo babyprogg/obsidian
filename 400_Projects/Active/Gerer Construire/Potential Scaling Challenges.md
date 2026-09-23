@@ -6,8 +6,9 @@ updated: 2026-02-25
 deadline:
 next-action:
 tags:
-  - project/active
-  - 
+  - project/gerer-construire
+  - domain/code
+  - architecture
 related: []
 ---
 
@@ -79,8 +80,10 @@ related: []
 - **Ch 4:** Про уверенность в том, что завтра ничего не сломается.
 
 ## Links
-- [[]] - 
-- [[]] - 
+- [[NX workspace module boundaries]] - Ch 1: lint-правило, запрещающее `import { ClientService } from '@my-app/client'` между доменами
+- [[Инварианты и приколы#Architecture Boundaries (Архитектурные границы)|Architecture Boundaries]] - Ch 1: концепт границ
+- [[Reactive Forms в Angular]] + [[ControlValueAccessor в Angular]] - Ch 2: инструменты для многошаговых форм
+- [[Angular Signals]] - Ch 4: «сложность с Signals в тестах»
 
 ## Sources
 - 
@@ -92,93 +95,3 @@ related: []
 
 ---
 **Last Updated**: 2026-02-25
-# Project: Без названия
-
-## Vision
-
-[What will this be when complete? Paint the picture.]
-
-## Why This Project
-
-[Why now? What problem does this solve?]
-
-### Connects These Interests
-- [[Interest 1]]
-- [[Interest 2]]
-- [[Interest 3]]
-
-## Success Criteria
-
-[How will I know it's done and successful?]
-
-- [ ] Criterion 1
-- [ ] Criterion 2
-- [ ] Criterion 3
-
-## Phases
-
-### Phase 1: [Name]
-**Goal**: 
-**Deadline**: 
-**Status**: Not started | In progress | Complete
-
-- [ ] Task 1
-- [ ] Task 2
-
-### Phase 2: [Name]
-**Goal**: 
-**Deadline**: 
-
-- [ ] Task 1
-
-## Next Actions
-
-**Immediate** (Do this week):
-- [ ] 
-
-**Soon** (Do this month):
-- [ ] 
-
-**Someday** (Future):
-- [ ] 
-
-## Resources Needed
-
-### Knowledge
-- Need to learn: [[]]
-- Reference: [[]]
-
-### Tools
-- 
-- 
-
-### Help
-- Who could help:
-
-## Challenges & Solutions
-
-### Challenge 1
-**Problem**: 
-**Solution**: 
-
-## Learning Goals
-
-[What will I learn from this project?]
-
-- 
-- 
-
-## Related
-
-### Projects
-- [[Related Project]] - How they connect
-
-### Notes
-- [[Relevant Concept]]
-
-## Log
-
-### 2026-02-25
-[What happened today? Decisions made? Blockers hit?]
-
-### Template for new entries

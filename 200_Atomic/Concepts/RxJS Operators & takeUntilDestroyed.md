@@ -1,11 +1,14 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-02
 updated: 2026-09-02
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
+  - rxjs
 related: []
 ---
 # RxJS Operators & takeUntilDestroyed
@@ -559,9 +562,9 @@ id="v3n7k2"
 
 - [[Angular Reactive Patterns]] — помогает безопасно связывать RxJS-потоки с lifecycle Angular-компонентов.
     
-- [[RxJS Operators Overview]] — `takeUntilDestroyed` является частью Observable pipeline наряду с `map`, `filter`, `switchMap` и другими операторами.
+- [[RxJs фундамент|RxJS Operators Overview]] — `takeUntilDestroyed` является частью Observable pipeline наряду с `map`, `filter`, `switchMap` и другими операторами.
     
-- [[Angular Dependency Injection]] — использует `DestroyRef`, который Angular предоставляет через DI.
+- [[Иерархия инжекторов и inject() в Angular|Angular Dependency Injection]] — использует `DestroyRef`, который Angular предоставляет через DI (см. там про Injection Context).
     
 - [[Angular Signals]] — Signals и RxJS могут использоваться вместе, например через `toSignal()` и `toObservable()`.
     
@@ -579,7 +582,9 @@ id="v3n7k2"
     
 - [[Angular Component Lifecycle]] — связывает lifecycle компонента с lifecycle Observable subscription.
     
-- [[RxJS Observables]] — добавляет Angular-aware управление временем жизни Observable.
+- [[RxJs фундамент|RxJS Observables]] — добавляет Angular-aware управление временем жизни Observable.
+
+- [[Алгоритм выполнения задачи. New Senior mindset]] — Этап 4 «Паранойя»: «Все ли Observable отписаны?» — эта заметка и есть ответ.
     
 
 ## Questions

@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-09
 updated: 2026-09-09
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
 related: []
 ---
 # Content Projection и Кастомные Структурные Директивы в Angular
@@ -72,7 +74,11 @@ if (this.auth.hasRole(role)) {
     
 - [[Single Responsibility Principle]] — разделяет визуальную структуру и логику управления DOM.
     
-- [[Clean Architecture]] — способствует разделению ответственности между слоями.
+- [[Clean Architecture for Angular Applications|Clean Architecture]] — способствует разделению ответственности между слоями.
+
+- [[Signal-based queries (viewChild, contentChild)]] — contentChild даёт доступ к спроецированному контенту.
+
+- [[Директивы и Пайпы в Angular (Directives & Custom Pipes)]] — базовая заметка про типы директив, здесь — углубление в структурные.
     
 
 ### Contradicts
@@ -84,7 +90,7 @@ if (this.auth.hasRole(role)) {
 
 - [[Angular Component Architecture]]
     
-- [[Native Control Flow (@if, @for)]]
+- [[Нативный control flow|Native Control Flow (@if, @for)]]
     
 
 ## Questions

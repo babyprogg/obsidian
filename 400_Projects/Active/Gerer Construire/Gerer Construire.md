@@ -6,8 +6,8 @@ updated: 2026-01-15
 deadline:
 next-action:
 tags:
-  - project/active
-  - dev
+  - project/gerer-construire
+  - domain/code
 ---
 
 # Project: Gerer Construire
@@ -96,7 +96,21 @@ tags:
 
 ### Notes
 - [[Общий разбор папки libs]]
-- 
+- [[Особенности Структуры]]
+- [[Паттерны проекта]]
+- [[Potential Scaling Challenges]]
+- [[Алгоритм выполнения задачи. New Senior mindset]]
+- [[чек ап список]]
+- [[NX workspace module boundaries]]
+- [[Clean Architecture for Angular Applications]]
+
+### Из дневников
+- [[2026-02-11]] - конвенции: валидаторы, формат commit message «feat(модуль): …»
+- [[2026-06-11]] - старт фриланса на 6 месяцев, вопрос оценки своего труда
+- [[2026-07-05]] - «подвёл команду киманажа… слишком низко для моих стандартов»
+- [[2026-07-06]] - контракт на 4 месяца
+- [[2026-09-14]] - ревью от лида: «разобрал ошибки… кругозор стал шире»
+- [[2026-09-16]] - «3-я неделя, рутинно закрываю задачи»
 
 ## Log
 

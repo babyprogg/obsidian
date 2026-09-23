@@ -1,11 +1,13 @@
 ---
 type: atomic
 status: seedling
-domain:
+domain: code
 created: 2026-09-07
 updated: 2026-09-07
 tags:
-  - 
+  - domain/code
+  - type/technique
+  - angular
 related: []
 ---
 # Signal-based queries (viewChild / contentChild)
@@ -100,12 +102,12 @@ export class CardComponent {
 
 - [[Angular Signals]] — расширяет единый реактивный паттерн приложения на DOM-запросы.
     
-- [[Angular Content Projection]] — обеспечивает управление проброшенным контентом через `contentChild`.
+- [[Content Projection и Кастомные Структурные Директивы в Angular|Angular Content Projection]] — обеспечивает управление проброшенным контентом через `contentChild`.
     
 
 ### Contradicts
 
-- [[@ViewChild Decorator]] — заменяет устаревший синтаксис на базе декораторов и обязательных lifecycle-хуков (`ngAfterViewInit`).
+- [[@ViewChild Decorator]] — заменяет устаревший синтаксис на базе декораторов и обязательных lifecycle-хуков (`ngAfterViewInit`) — см. Example 2 в [[Angular Component Lifecycle]].
     
 
 ### Extends
