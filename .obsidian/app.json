@@ -40,5 +40,9 @@
   "autoPairBrackets": true,
   "strictLineBreaks": false,
   "showFrontmatter": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "userIgnoreFilters": [
+    "700_Archive/",
+    "700_Archive/Legacy/"
+  ]
 }

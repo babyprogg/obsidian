@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"8ef8cebcfb782f23","type":"text","text":"","x":64,"y":-422,"width":250,"height":60},
+		{"id":"c1d0a49aceb0a6c4","type":"file","file":"Фотки/Pasted image 20260922112635.png","x":-360,"y":-1120,"width":350,"height":400}
+	],
+	"edges":[]
+}

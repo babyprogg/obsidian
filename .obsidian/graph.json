@@ -8,10 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Base",
+      "query": "path:200_Atomic  ",
       "color": {
         "a": 1,
-        "rgb": 9756414
+        "rgb": 16309211
+      }
+    },
+    {
+      "query": "path:100_Inbox  ",
+      "color": {
+        "a": 1,
+        "rgb": 14541397
+      }
+    },
+    {
+      "query": "path:400_Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 16353285
+      }
+    },
+    {
+      "query": "path:500_Areas  ",
+      "color": {
+        "a": 1,
+        "rgb": 15947413
+      }
+    },
+    {
+      "query": "path:300_Structure  ",
+      "color": {
+        "a": 1,
+        "rgb": 2507796
       }
     }
   ],
@@ -25,6 +53,6 @@
   "repelStrength": 8.91891891891892,
   "linkStrength": 0.3004158004158,
   "linkDistance": 275,
-  "scale": 0.030182895067324092,
+  "scale": 0.027650162609478075,
   "close": true
 }
