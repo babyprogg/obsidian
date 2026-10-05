@@ -1,9 +1,6 @@
 ---
 type: daily
 created: <% tp.date.now("YYYY-MM-DD") %>
-mood: 
-energy: 
-focus-area: 
 tags:
   - daily
 ---
@@ -12,40 +9,21 @@ tags:
 
 [[<% tp.date.now("YYYY-MM-DD", -1) %>|← Yesterday]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>|Tomorrow →]]
 
-
-### Intentions
-What kind of day do I want?
-
+## Focus
 
 ## Captures
-
-[Quick notes, ideas, things to remember]
 
 - 
 
 ## Thoughts
 
-[What's on my mind?]
+## Learned
 
+- 
 
 ## Consumed
 
-### Read
 - 
-
-### Watched
-- 
-
-### Listened
-- 
-
-
-### Applied Knowledge
-[What notes did I actually USE today?]
-
-- [[]] - How I used it
-
-
 
 ---
 
