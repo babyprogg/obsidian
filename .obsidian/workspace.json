@@ -54,8 +54,19 @@
               "icon": "lucide-file",
               "title": "draft 1"
             }
+          },
+          {
+            "id": "31dc5869c3fd25a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -499,10 +510,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa43efdb13b56363",
+  "active": "31dc5869c3fd25a8",
   "lastOpenFiles": [
-    "500_Areas/Daily/2026-10-04.md",
     "500_Areas/Daily/2026-10-05.md",
+    "500_Areas/Daily/2026-10-04.md",
     "Фотки/Pasted image 20261004234148.png",
     "400_Projects/Active/Gerer Construire/чек ап список.md",
     "500_Areas/Daily/2026-10-02.md",
