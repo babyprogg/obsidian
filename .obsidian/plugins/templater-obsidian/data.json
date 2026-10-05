@@ -41,9 +41,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/Матрица Эйзенхауера.md",
-    "Templates/Шаблон для книг.md",
-    "Templates/Единица Контента.md"
+    "000_System/Templates/Матрица Эйзенхауера.md",
+    "000_System/Templates/Шаблон для книг.md",
+    "000_System/Templates/Единица Контента.md"
   ],
   "startup_templates": [
     ""

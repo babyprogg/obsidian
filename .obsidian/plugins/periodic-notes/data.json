@@ -8,8 +8,8 @@
     "template": "000_System/Templates/daily-note.md"
   },
   "weekly": {
-    "format": "",
-    "template": "",
+    "format": "gggg-[W]ww",
+    "template": "000_System/Templates/weekly-review.md",
     "folder": "000_System/Reviews/Weekly",
     "enabled": true
   },
