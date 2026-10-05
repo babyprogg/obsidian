@@ -1,3 +1,5 @@
 {
-  "folder": "Base/Daily"
+  "folder": "500_Areas/Daily",
+  "template": "000_System/Templates/daily-note",
+  "format": "YYYY-MM-DD"
 }

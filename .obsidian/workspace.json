@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f5fa5931a76e26f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "928d6d523e5f33d8",
             "type": "leaf",
             "state": {
@@ -54,19 +78,9 @@
               "icon": "lucide-file",
               "title": "draft 1"
             }
-          },
-          {
-            "id": "31dc5869c3fd25a8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/0213 Три Товарища.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +270,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 0213 Три Товарища"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -467,6 +481,18 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "013c41c064b96722",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла"
+            }
           }
         ]
       },
@@ -510,10 +536,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "31dc5869c3fd25a8",
+  "active": "f5fa5931a76e26f7",
   "lastOpenFiles": [
     "500_Areas/Daily/2026-10-05.md",
+    "conflict-files-obsidian-git.md",
     "500_Areas/Daily/2026-10-04.md",
+    "400_Projects/Active/substack arcticles/draft 1.md",
+    "000_System/Reviews/Weekly/2026-W41.md",
+    "000_System/Reviews/Weekly/2026-W40.md",
+    "000_System/MOCs/cs50.md",
+    "600_Resources/На изучение/Креативные профессии с рычагом.md",
+    "600_Resources/На изучение/Primitive Futurism.md",
+    "600_Resources/На изучение/Backwards law.md",
+    "600_Resources/На изучение",
+    "200_Atomic/Concepts/Страх как красная нить.md",
+    "200_Atomic/Concepts/Марафон, а не спринт.md",
+    "200_Atomic/Concepts/Верить до доказательств.md",
+    "000_System/Templates/weekly-review.md",
     "Фотки/Pasted image 20261004234148.png",
     "400_Projects/Active/Gerer Construire/чек ап список.md",
     "500_Areas/Daily/2026-10-02.md",
@@ -527,19 +566,7 @@
     "500_Areas/Daily/2026-09-24.md",
     "500_Areas/Daily/2026-09-23.md",
     "500_Areas/Daily/2026-09-22.md",
-    "500_Areas/Daily/2026-09-14.md",
-    "500_Areas/Daily/2026-09-21.md",
-    "000_System/Templates/daily-note.md",
-    "400_Projects/Active/substack arcticles/Substack.md",
-    "400_Projects/Active/substack arcticles/draft 1.md",
     "400_Projects/Active/substack arcticles",
-    "200_Atomic/Concepts/Нравственные письма к Луцилию.md",
-    "200_Atomic/Techniques/Как лучше учиться.md",
-    "500_Areas/Daily/2026-09-02.md",
-    "600_Resources/Articles/the hunger to be everything..md",
-    "200_Atomic/Concepts/Dark horse mindset.md",
-    "200_Atomic/Concepts/Dont try.md",
-    "200_Atomic/Concepts/Angular Component Lifecycle.md",
     "Excalidraw/SZN.canvas",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
@@ -558,7 +585,6 @@
     "500_Areas/Creative/Essays",
     "Фотки",
     "400_Projects/Archive/Unique learner",
-    "400_Projects/Active/Gerer Construire",
     "Без названия.canvas"
   ]
 }
