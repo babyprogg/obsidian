@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500_Areas/Daily/2026-09-23.md",
+                "file": "500_Areas/Daily/2026-10-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-23"
+              "title": "2026-10-05"
             }
           },
           {
-            "id": "e1282dfcc8ec3a0e",
+            "id": "928d6d523e5f33d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_Atomic/Concepts/Микрофронтенды, Module Federation — общее понимание.md",
+                "file": "400_Projects/Active/substack arcticles/draft 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,47 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Микрофронтенды, Module Federation — общее понимание"
-            }
-          },
-          {
-            "id": "16ca175fdf522d53",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MOODBOARD TYPE SHI.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MOODBOARD TYPE SHI"
-            }
-          },
-          {
-            "id": "eecdb1475da55280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200_Atomic/Concepts/Системное мышление по Медоуз.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Системное мышление по Медоуз"
+              "title": "draft 1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -494,8 +457,7 @@
               "title": "Graph Analysis"
             }
           }
-        ],
-        "currentTab": 24
+        ]
       },
       {
         "id": "e1de5427c52776d6",
@@ -537,55 +499,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eecdb1475da55280",
+  "active": "fa43efdb13b56363",
   "lastOpenFiles": [
-    "Без названия.md",
-    "Excalidraw/MOODBOARD TYPE SHI.md",
+    "500_Areas/Daily/2026-10-04.md",
+    "500_Areas/Daily/2026-10-05.md",
+    "Фотки/Pasted image 20261004234148.png",
+    "400_Projects/Active/Gerer Construire/чек ап список.md",
+    "500_Areas/Daily/2026-10-02.md",
+    "500_Areas/Daily/2026-10-01.md",
+    "500_Areas/Daily/2026-09-30.md",
+    "500_Areas/Daily/2026-09-29.md",
+    "500_Areas/Daily/2026-09-28.md",
+    "500_Areas/Daily/2026-09-27.md",
+    "500_Areas/Daily/2026-09-26.md",
+    "500_Areas/Daily/2026-09-25.md",
+    "500_Areas/Daily/2026-09-24.md",
     "500_Areas/Daily/2026-09-23.md",
     "500_Areas/Daily/2026-09-22.md",
+    "500_Areas/Daily/2026-09-14.md",
+    "500_Areas/Daily/2026-09-21.md",
+    "000_System/Templates/daily-note.md",
+    "400_Projects/Active/substack arcticles/Substack.md",
+    "400_Projects/Active/substack arcticles/draft 1.md",
+    "400_Projects/Active/substack arcticles",
+    "200_Atomic/Concepts/Нравственные письма к Луцилию.md",
+    "200_Atomic/Techniques/Как лучше учиться.md",
+    "500_Areas/Daily/2026-09-02.md",
+    "600_Resources/Articles/the hunger to be everything..md",
+    "200_Atomic/Concepts/Dark horse mindset.md",
+    "200_Atomic/Concepts/Dont try.md",
+    "200_Atomic/Concepts/Angular Component Lifecycle.md",
     "Excalidraw/SZN.canvas",
-    "Excalidraw/Drawing 2026-01-21 19.40.17_0.excalidraw.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "200_Atomic/Concepts/Микрофронтенды, Module Federation — общее понимание.md",
-    "Excalidraw/Drawing 2026-09-22 11.27.33.excalidraw.md",
     "Фотки/Pasted image 20260922112635.png",
-    "400_Projects/Active/Gerer Construire/чек ап список.md",
-    "700_Archive/Legacy/Base/Masturbation/057 Способ направления.md",
-    "500_Areas/Daily/2026-09-21.md",
-    "500_Areas/Daily/2026-09-20.md",
     "Фотки/Pasted image 20260920022334.png",
     "Фотки/Pasted image 20260920015607.png",
-    "500_Areas/Daily/2026-09-18.md",
-    "700_Archive/Legacy/Base/Book summary/190 How to Take Smart Notes by Sonke Ahrens Summary.md",
-    "500_Areas/Daily/2026-09-17.md",
-    "500_Areas/Daily/2026-09-16.md",
-    "200_Atomic/Concepts/Angular i18n и локализация.md",
-    "700_Archive/Legacy/Base/Masturbation/037 Тишина.md",
-    "200_Atomic/Concepts/Angular SSR и современная гидратация.md",
-    "200_Atomic/Concepts/Современные анимации в Angular.md",
-    "200_Atomic/Concepts/ControlValueAccessor в Angular.md",
-    "200_Atomic/Concepts/Angular. CDK Overlay, a11y-хелперы, Drag&Drop.md",
-    "500_Areas/Daily/2026-09-14.md",
-    "200_Atomic/Concepts/Content Projection и Кастомные Структурные Директивы в Angular.md",
-    "500_Areas/Daily/2026-09-11.md",
-    "500_Areas/Daily/2026-09-09.md",
-    "500_Areas/Daily/2026-09-08.md",
     "Фотки/Pasted image 20260901101719.png",
     "Фотки/Pasted image 20260901101717.png",
     "Фотки/Pasted image 20260826203516.png",
     "Фотки/Pasted image 20260824162530.png",
     "Фотки/Pasted image 20260817213259.png",
     "Фотки/Pasted image 20260817213235.png",
-    "Фотки/Pasted image 20260729185309.png",
-    "400_Projects/Active/Maison Margiela Article site",
-    "400_Projects/Active/TicTacBoe",
+    "400_Projects/Archive/Maison Margiela Article site",
+    "400_Projects/Archive/TicTacBoe",
     "Excalidraw",
     "500_Areas/Creative/Essays",
     "Фотки",
-    "400_Projects/Active/Unique learner",
+    "400_Projects/Archive/Unique learner",
     "400_Projects/Active/Gerer Construire",
-    "700_Archive/Legacy",
     "Без названия.canvas"
   ]
 }

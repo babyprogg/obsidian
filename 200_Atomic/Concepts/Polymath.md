@@ -7,10 +7,10 @@ tags:
   - domain/learning
   - type/framework
 aliases:
-  - "038 Polymath"
+  - 038 Polymath
 related:
   - "[[MOC - Polymath Architecture]]"
-  - "[[modern polymath]]"
+  - "[[Modern Polymath]]"
 ---
 # Polymath, who is this? 
 - Its a person who knows a lot from a lot of things. 

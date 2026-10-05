@@ -7,11 +7,11 @@ tags:
   - domain/learning
   - type/technique
 aliases:
-  - "0146 Mental imaginary"
-  - "Mental Imagery"
+  - 0146 Mental imaginary
+  - Mental Imagery
 related:
   - "[[MOC - Learning Systems]]"
-  - "[[Creative Problem solving]]"
+  - "[[Creative Problem Solving]]"
 ---
 # Short term tips
 1.  Фокус на маленьком, не на всей картине. Зум
