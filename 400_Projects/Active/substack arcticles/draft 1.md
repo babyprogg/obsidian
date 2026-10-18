@@ -23,11 +23,11 @@ related: []
 hey, where i can find a milk... and what inspires you the most? 
 Статья в сабстаке типо про сондер и про ее отношения в моей жизни. Как сильно я хочу узнать о людях других и как это интимно
 
-everytime when im going to mall for chicken or milk, theres so many lives around me. employees, just random people, local businessmans. 
+every time when i go to the mall, theres so many lives around me. employees, just random people, local businessmen. 
 and everyone of them is living a life as vivid, complex, and central to them as your own is to you. and it seems obvious, but if we really focus on it, and feel it, sonder is mindblowing feeling. 
-like, usdafjasdfqwviqobi
+like, maybe we have so much in common but we cant make a move through unknownness and potentially be closer to a connection. i know not everyone wants it, maybe its inappropriate or weird, but i can't help myself. i want to listen your go-to story, your first love, your last heartbreak, hardest win and biggest loss. tell me, or pass the milk at least. 
 
-maybe we have so much in common but we cant make step through unknowennes(?) and be closer to connection. i know not everyone wants it, maybe its inappropriate or weird, but i cant deal with myself. i want to listen your go-to story, your first love, your last hearbreak, hardest win and biggest lose. 
+https://substack.com/@onerly/note/c-353248668?r=6yt60m&utm_source=notes-share-action&utm_medium=web заметка в сабстаке вышла по этой заметке. 
 
 
 
