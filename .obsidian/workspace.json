@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500_Areas/Daily/2026-10-18.md",
+                "file": "500_Areas/Daily/2026-10-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-18"
-            }
-          },
-          {
-            "id": "4b5d4881c9adc55d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_System/Reviews/Weekly/2026-W40.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-W40"
+              "title": "2026-10-28"
             }
           }
         ]
@@ -168,12 +144,24 @@
             "id": "80d857fc4a3f2b59",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MOODBOARD TYPE SHI.md"
+                "file": "500_Areas/Daily/2026-10-20.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "MOODBOARD TYPE SHI"
+              "icon": "lucide-file",
+              "title": "2026-10-20"
             }
           }
         ],
@@ -522,51 +510,51 @@
   },
   "active": "ff4742d7490f52f9",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "500_Areas/Daily/2026-10-27.md",
+    "500_Areas/Daily/2026-10-28.md",
+    "500_Areas/Daily/2026-10-26.md",
+    "Фотки/Pasted image 20261026185814.png",
+    "500_Areas/Daily/2026-10-25.md",
+    "500_Areas/Daily/2026-10-24.md",
+    "500_Areas/Daily/2026-10-23.md",
+    "Фотки/Pasted image 20261023231439.png",
+    "Фотки/Pasted image 20261023211142.png",
+    "Фотки/Pasted image 20261023173732.png",
+    "Фотки/Pasted image 20261023164408.png",
+    "Фотки/Pasted image 20261023153053.png",
+    "Фотки/Pasted image 20261023153019.png",
+    "Фотки/Pasted image 20261023152954.png",
+    "500_Areas/Daily/2026-10-22.md",
+    "Фотки/Pasted image 20261022160111.png",
+    "500_Areas/Daily/2026-10-21.md",
+    "Фотки/Pasted image 20261021232031.png",
+    "500_Areas/Daily/2026-10-20.md",
+    "200_Atomic/Techniques/Circuit Training for Homework.md",
+    "500_Areas/Daily/2026-10-19.md",
+    "Excalidraw/MOODBOARD TYPE SHI.md",
     "500_Areas/Daily/2026-10-18.md",
-    "600_Resources/На изучение/Карьера исследователя.md",
+    "200_Atomic/Concepts/Angular. CDK Overlay, a11y-хелперы, Drag&Drop.md",
+    "000_System/Reviews/Weekly/2026-W41.md",
+    "000_System/Reviews/Weekly/2026-W42.md",
+    "500_Areas/Creative/Картинки из дейликов.md",
+    "200_Atomic/Concepts/Страх как красная нить.md",
+    "600_Resources/На изучение/Backwards law.md",
+    "600_Resources/Media/Music/Ghostly Kisses — The City Holds My Heart.md",
     "600_Resources/Media/Music/Unflirt.md",
     "600_Resources/Media/Music/Jay-Z — Reasonable Doubt.md",
-    "600_Resources/Media/Music/Ghostly Kisses — The City Holds My Heart.md",
-    "500_Areas/Creative/Картинки из дейликов.md",
     "200_Atomic/Techniques/Бокс.md",
-    "000_System/Reviews/Weekly/2026-W42.md",
-    "Excalidraw/MOODBOARD TYPE SHI.md",
+    "CLAUDE.md",
+    "600_Resources/На изучение/Карьера исследователя.md",
     "500_Areas/Daily/2026-10-17.md",
-    "500_Areas/Daily/2026-10-16.md",
-    "000_System/Reviews/Weekly/2026-W40.md",
-    "200_Atomic/Concepts/Gap-Разрыв.md",
-    "500_Areas/Daily/2026-10-15.md",
-    "500_Areas/Daily/2026-10-14.md",
-    "Фотки/Pasted image 20261014224923.png",
-    "500_Areas/Daily/2026-10-13.md",
-    "500_Areas/Daily/2026-10-12.md",
-    "000_System/Reviews/Weekly/2026-W41.md",
-    "500_Areas/Daily/2026-10-11.md",
-    "Фотки/Pasted image 20261011131855.png",
-    "500_Areas/Daily/2026-10-09.md",
-    "500_Areas/Daily/2026-10-10.md",
-    "Фотки/Pasted image 20261010132611.png",
-    "Фотки/Pasted image 20261009164350.png",
-    "Фотки/Pasted image 20261009160237.png",
-    "Фотки/Pasted image 20261009153002.png",
-    "Фотки/Pasted Image 20261009144451_310.png",
-    "500_Areas/Daily/2026-10-06.md",
     "Без названия.base",
-    "400_Projects/Active/substack arcticles/draft 1.md",
     "Без названия 2.base",
     "Без названия 1.base",
-    "500_Areas/Daily/2026-10-05.md",
-    "Essentials/Migration Summary 2026-03-22.md",
     "600_Resources/Media/Music",
     "600_Resources/На изучение",
-    "Фотки/Pasted image 20261004234148.png",
     "400_Projects/Active/substack arcticles",
     "Excalidraw/SZN.canvas",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "Фотки/Pasted image 20260922112635.png",
-    "Фотки/Pasted image 20260920022334.png",
     "400_Projects/Archive/Maison Margiela Article site",
     "400_Projects/Archive/TicTacBoe",
     "Без названия.canvas"
