@@ -58,6 +58,7 @@
 - #project/jarvis
 - #project/100soldiers
 - #project/learning-app
+- #project/waffles
 
 ### 7. Source Tags (#source/)
 **Purpose**: Where did this come from?
