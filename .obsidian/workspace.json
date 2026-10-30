@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500_Areas/Daily/2026-10-28.md",
+                "file": "500_Areas/Daily/2026-10-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-28"
+              "title": "2026-10-30"
+            }
+          },
+          {
+            "id": "2ec4b374abca380b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_System/Reviews/Weekly/2026-W43.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-W43"
             }
           }
         ]
@@ -510,8 +534,23 @@
   },
   "active": "ff4742d7490f52f9",
   "lastOpenFiles": [
-    "500_Areas/Daily/2026-10-27.md",
+    "Фотки/Pasted image 20261030141525.png",
+    "500_Areas/Daily/2026-10-30.md",
+    "500_Areas/Daily/2026-10-29.md",
+    "000_System/Reviews/Weekly/2026-W43.md",
+    "500_Areas/Creative/Картинки из дейликов.md",
+    "600_Resources/People/Люди.md",
+    "200_Atomic/Concepts/Марафон, а не спринт.md",
+    "600_Resources/Media/Music/Common — Be.md",
+    "600_Resources/Media/Games/Watch Dogs 2.md",
     "500_Areas/Daily/2026-10-28.md",
+    "600_Resources/People/Bryce Young.md",
+    "600_Resources/People/Jonathan Anderson.md",
+    "600_Resources/People",
+    "600_Resources/Media/Games/Игры.md",
+    "600_Resources/Media/Games",
+    "000_System/Templates/person-note.md",
+    "500_Areas/Daily/2026-10-27.md",
     "500_Areas/Daily/2026-10-26.md",
     "Фотки/Pasted image 20261026185814.png",
     "500_Areas/Daily/2026-10-25.md",
@@ -533,19 +572,6 @@
     "500_Areas/Daily/2026-10-19.md",
     "Excalidraw/MOODBOARD TYPE SHI.md",
     "500_Areas/Daily/2026-10-18.md",
-    "200_Atomic/Concepts/Angular. CDK Overlay, a11y-хелперы, Drag&Drop.md",
-    "000_System/Reviews/Weekly/2026-W41.md",
-    "000_System/Reviews/Weekly/2026-W42.md",
-    "500_Areas/Creative/Картинки из дейликов.md",
-    "200_Atomic/Concepts/Страх как красная нить.md",
-    "600_Resources/На изучение/Backwards law.md",
-    "600_Resources/Media/Music/Ghostly Kisses — The City Holds My Heart.md",
-    "600_Resources/Media/Music/Unflirt.md",
-    "600_Resources/Media/Music/Jay-Z — Reasonable Doubt.md",
-    "200_Atomic/Techniques/Бокс.md",
-    "CLAUDE.md",
-    "600_Resources/На изучение/Карьера исследователя.md",
-    "500_Areas/Daily/2026-10-17.md",
     "Без названия.base",
     "Без названия 2.base",
     "Без названия 1.base",
@@ -555,8 +581,6 @@
     "Excalidraw/SZN.canvas",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "400_Projects/Archive/Maison Margiela Article site",
-    "400_Projects/Archive/TicTacBoe",
     "Без названия.canvas"
   ]
 }
