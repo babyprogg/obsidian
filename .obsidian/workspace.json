@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500_Areas/Daily/2026-10-30.md",
+                "file": "500_Areas/Daily/2026-10-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-30"
+              "title": "2026-10-31"
             }
           },
           {
@@ -53,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "2026-W43"
+            }
+          },
+          {
+            "id": "2a7675d04335e118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400_Projects/Active/Вафли/Вафли.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Вафли"
             }
           }
         ]
@@ -534,11 +558,23 @@
   },
   "active": "ff4742d7490f52f9",
   "lastOpenFiles": [
-    "Фотки/Pasted image 20261030141525.png",
-    "500_Areas/Daily/2026-10-30.md",
-    "500_Areas/Daily/2026-10-29.md",
+    "400_Projects/Active/Вафли/Вафли.md",
     "000_System/Reviews/Weekly/2026-W43.md",
+    "500_Areas/Daily/2026-10-31.md",
+    "Фотки/Pasted image 20261031133855.png",
+    "Фотки/Pasted image 20261031133845.png",
+    "500_Areas/Daily/2026-10-30.md",
+    "400_Projects/Active/Вафли/Вафли — инспо.md",
     "500_Areas/Creative/Картинки из дейликов.md",
+    "Фотки/Pasted image 20261030161813.png",
+    "Фотки/Pasted image 20261030161806.png",
+    "Фотки/Pasted image 20261030161800.png",
+    "Фотки/Pasted image 20261030161743.png",
+    "Фотки/Pasted image 20261030161704.png",
+    "Фотки/Pasted image 20261030161530.png",
+    "400_Projects/Active/Вафли",
+    "Фотки/Pasted image 20261030141525.png",
+    "500_Areas/Daily/2026-10-29.md",
     "600_Resources/People/Люди.md",
     "200_Atomic/Concepts/Марафон, а не спринт.md",
     "600_Resources/Media/Music/Common — Be.md",
@@ -556,22 +592,10 @@
     "500_Areas/Daily/2026-10-25.md",
     "500_Areas/Daily/2026-10-24.md",
     "500_Areas/Daily/2026-10-23.md",
-    "Фотки/Pasted image 20261023231439.png",
-    "Фотки/Pasted image 20261023211142.png",
-    "Фотки/Pasted image 20261023173732.png",
-    "Фотки/Pasted image 20261023164408.png",
-    "Фотки/Pasted image 20261023153053.png",
-    "Фотки/Pasted image 20261023153019.png",
-    "Фотки/Pasted image 20261023152954.png",
     "500_Areas/Daily/2026-10-22.md",
-    "Фотки/Pasted image 20261022160111.png",
     "500_Areas/Daily/2026-10-21.md",
-    "Фотки/Pasted image 20261021232031.png",
     "500_Areas/Daily/2026-10-20.md",
     "200_Atomic/Techniques/Circuit Training for Homework.md",
-    "500_Areas/Daily/2026-10-19.md",
-    "Excalidraw/MOODBOARD TYPE SHI.md",
-    "500_Areas/Daily/2026-10-18.md",
     "Без названия.base",
     "Без названия 2.base",
     "Без названия 1.base",
@@ -580,7 +604,6 @@
     "400_Projects/Active/substack arcticles",
     "Excalidraw/SZN.canvas",
     "Excalidraw/Libraries/local-library.excalidrawlib",
-    "Excalidraw/Libraries",
     "Без названия.canvas"
   ]
 }
